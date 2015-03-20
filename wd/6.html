@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>上方云专家系统对外接口说明</title>
+<meta name="keywords" content="" />
+<meta name="description" content="上方云专家系统对外接口说明" />
+<link href="/toprx/css/main.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="box">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td rowspan="2"><img src="/toprx/images/TopRx_r2_c3.jpg" width="282" height="72" /></td>
+		<!--<td width="60"><a href="login.html"><img src="/toprx/images/TopRx_r1_c19.jpg" width="54" height="28" border="0" /></a></td>
+		<td width="120"><a href="zc.html"><img src="/toprx/images/TopRx_r1_c21.jpg" width="54" height="28" border="0" /></a></td>-->
+	</tr>
+	<tr>
+		<td colspan="2">&nbsp;</td>
+	</tr>
+</table>
+<table width="1180" border="0" cellpadding="0" cellspacing="0" class="dh">
+	<tr>
+		<td align="right" valign="top"><a href="/toprx/" class="dh" >首页</a>　<a href="/toprx/js/1.html" class="dh" >技术·服务</a>　<a href="/toprx/al/35.html" class="dh" >案例</a>　<a href="/toprx/wd/6.html" class="dh" style="color:#0098D9">开放文档</a>　<a href="/toprx/kfzzx/37.html" class="dh" >开发者中心</a>　</td>
+	</tr>
+</table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="354" valign="top">
+				<div class="left02">
+					<h2>开放文档</h2>
+						<a href="/toprx/wd/7.html" title="云计算能力" class="">· 云计算能力</a><a href="/toprx/wd/6.html" title="上方云专家系统对外接口说明" class="xuanzhong02">· 上方云专家系统对外接口说明</a>				</div>
+			</td>
+			<td valign="top">
+				<div class="right">
+					<h3>上方云专家系统对外接口说明</h3>
+					<h4><span>目的</span></h4>
+<p>对第三方开放运动数据的能耗计算公式接口。明确接口交互方式，交互数据的格式等。</p>
+<h4><span>接口调用相关信息</span></h4>
+<p>&nbsp;</p>
+<ul>
+    <li>数据交互格式：JSON 格式数据包</li>
+    <li>数据通讯协议：REST</li>
+    <li>服务器请求地址：open.toprx.cn/fit/services/fitCal/</li>
+</ul>
+<p>&nbsp;</p>
+<h4><span>服务接口说明</span></h4>
+<h5><span>3.1获取运动数据计算方法</span></h5>
+<p><strong>方法名：</strong> getUserPAEE<br />
+<strong>Method：</strong> post<br />
+<strong>字段说明： </strong></p>
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#D0DFED">
+    <tbody>
+        <tr>
+            <th width="10%">序号</th>
+            <th width="15%">参数项</th>
+            <th width="15%">参数</th>
+            <th width="15%">参数含义</th>
+            <th width="45%">备注</th>
+        </tr>
+        <tr>
+            <td rowspan="3" align="center" valign="middle" bgcolor="#FFFFFF">1</td>
+            <td rowspan="3" align="center" valign="middle" bgcolor="#FFFFFF">system</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">key</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">密钥</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">请求源 key 值，由计算平台提供的api_key，格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">sign</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">签名值</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">计算方法参看&ldquo;签名值算法 &rdquo;，格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">time</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">请求时间</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">UTC 时间戳, 自 1970 年 1 月 1 日起,计算的时间，单位为秒;格式为字符串。</td>
+        </tr>
+        <tr>
+            <td rowspan="5" align="center" valign="middle" bgcolor="#FFFFFF">2</td>
+            <td rowspan="5" align="center" valign="middle" bgcolor="#FFFFFF">params</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">birthday</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">生日</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式为YYYY-MM-DD&nbsp;,字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">height</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">身高</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">单位cm，格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">weight</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">体重</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">单位Kg，格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">sex</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">性别</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">1＝男  2＝女；格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">data</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">运动数据</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式为字符串，不定长数组；一分钟为单位进行存储，动态发送计算数据个数。如果某分钟里没有数据以0填充。如： 					[89,18,29,0,0,0,18&hellip;&hellip;..]</td>
+        </tr>
+        <tr>
+            <td rowspan="5" align="center" valign="middle" bgcolor="#FFFFFF">3</td>
+            <td rowspan="5" align="center" valign="middle" bgcolor="#FFFFFF">request</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">url</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">请求源域名</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">datetime</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">数据开始时间</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">YYYY-MM-DD HH:MM；时间为24小时制，表示数据传输的起始时间。</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">uid</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">用户唯一标识</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式字符串，客户提供</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">pid</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">设备唯一标识</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式字符串，客户提供</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">cid</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">组织结构代码</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">计算平台提供</td>
+        </tr>
+    </tbody>
+</table>
+<h4><span>3.2签名算法如下：</span></h4>
+<p><strong>（1）第一步：</strong></p>
+<p>算出&rdquo;签名原始串&rdquo;= request 参数集合字串(将所有字段按升序排列后，依次连接所有字段名及对应值)+system 参数集合中的 time ：字串+请求源 secret：。</p>
+<p>样式如下：</p>
+<div>
+<pre>
+&rdquo;&lt;attr&gt;:&lt;val&gt;,&hellip;,&lt;attr&gt;:&lt;val&gt;,time:&lt;val&gt;,secret:&lt;val&gt;&rdquo;</pre>
+</div>
+<p><strong>（2）第二步：</strong></p>
+<p>将&ldquo;签名原始串&rdquo;进行&nbsp;MD5，并转化为&nbsp;16&nbsp;进制的&nbsp;32&nbsp;&nbsp;位小写字符串，作为签名值&nbsp;sign。</p>
+<p><strong>请求示例：</strong></p>
+<div>
+<pre>
+ {<br />    &quot;system&quot;: {<br />        &quot;key&quot;: &quot;123&quot;,<br />        &quot;time&quot;: &quot;1421060585&quot;,<br />        &quot;sign&quot;: &quot;fa0a791f5d8e3c7883f220811046e163&quot;<br />    },<br />    &quot;request&quot;: {<br />        &quot;url&quot;: &quot;www.your_url.com&quot;,<br />        &quot;datetime&quot;: &quot;2014-12-12 14:23&quot;,<br />        &quot;uid&quot;: &quot;1&quot;,<br />        &quot;pid&quot;: &quot;2&quot;,<br />        &quot;cid&quot;: &quot;3&quot;<br />    },<br />    &quot;params&quot;: {<br />        &quot;birthday&quot;: &quot;19810101&quot;,<br />        &quot;height&quot;: &quot;180&quot;,<br />        &quot;weight&quot;: &quot;65&quot;,<br />        &quot;sex&quot;: &quot;1&quot;,<br />        &quot;data&quot;: [<br />            12,<br />            45,<br />            78,<br />            98,<br />            0,<br />            80<br />        ]<br />    }<br />}
+					</pre>
+</div>
+<p>注：&quot;url&quot;:&quot;www.your_url.com&quot;为调用者应用程序服务器URL。</p>
+<p><strong>响应结果参数说明</strong></p>
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#D0DFED">
+    <tbody>
+        <tr>
+            <th width="10%">序号</th>
+            <th width="15%">参数项</th>
+            <th width="15%">参数</th>
+            <th width="15%">参数含义</th>
+            <th width="45%">备注</th>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">1</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">uid</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">用户ID</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">2</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">pid</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">设备唯一标识</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式为字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">3</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">datetime</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">开始时间</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">YYYY－MM－DD HH:mm，数据开始计算的时间(24小时制)，格式字符串</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">4</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">paee</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">计算结果</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">格式，字符串：<br />
+            [[能耗，脂肪比率，糖功能比率]，[能耗，脂肪比率，糖功能比率] ，[能耗，脂肪比率，糖功能比率],[]&hellip;]<br />
+            JSON格式串；<br />
+            每个运动数据对应一个计算结果集合，跟运动数值一一对应，如果某分钟里步数为0，则该分钟对应的计算值为[0，0，0]。<br />
+            如： 					请求data为:[89,0,110] 					<br />
+            则计算结果为： 					[[5.9,0.23, 0.43],[0，0，0],[ 10.6,0.34,0.56]]</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">5</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">errorCode</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">错误代码</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">int类型；0为成功，其他均为失败</td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">6</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">error</td>
+            <td align="center" valign="middle" bgcolor="#FFFFFF">代码描述</td>
+            <td align="left" valign="middle" bgcolor="#FFFFFF">字符串</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>响应示例：</strong></p>
+<div>
+<pre>
+{&quot;errorCode&quot;:0,<br />&quot;error&quot;:&quot;cal success&quot;,<br />&quot;uid&quot;:&quot;1&quot;,<br />&quot;pid&quot;:&quot;2&quot;,<br />&quot;datetime&quot;:&quot;2014-12-12 14:23&quot;,<br />&quot;paee&quot;:[[0,0,1],[0.4,0,1],[2.5,0,1],[3.7,0,1],[0，0，0],[2.6,0,1]]<br />}</pre>
+</div>				</div>
+			</td>
+		</tr>
+	</table>
+	<table border="0" cellpadding="0" cellspacing="0" bgcolor="#999999" class="bottom">
+	<tr>
+		<td width="800" valign="top">
+			<div class="bottomdiv">
+				<ul>
+					<li>TopRx</li>
+					<li><a href="/toprx/wzgk/5.html" class="BO">关于我们</a></li>
+					<li><a href="/toprx/wzgk/38.html" class="BO">加入我们</a></li>
+					<li><a href="/toprx/wzgk/39.html" class="BO">隐私政策</a></li>
+					<li><a href="/toprx/wzgk/40.html" class="BO">使用条款</a></li>
+				</ul>
+			</div>
+			<div class="bottomdiv">
+				<ul>
+					<li>新闻</li>
+					<li><a href="/toprx/mtbd/41.html" class="BO">媒体报道</a></li>
+					<li><a href="/toprx/gxrz/42.html" class="BO">更新日志</a></li>
+				</ul>
+			</div>      
+			<div class="bottomdiv">
+				<ul>
+					<li>支持</li>
+					<li><a href="/toprx/wd/6.html" class="BO">API文档</a></li>
+					<li><a href="/toprx/kfzzx/37.html" class="BO">开发工具与SDK</a></li>
+					<li><a href="/toprx/xsyj/43.html" class="BO">学术研究</a></li>
+					<li><a href="/toprx/cjwt/44.html" class="BO">常见问题</a></li>
+				</ul>
+			</div>
+		</td>
+		<td width="380" valign="top">
+			<div class="bottomdiv02">© 2015 Megvii, Inc. All Rights Reserved. <br />京ICP备12036813号-6 <br /></div>
+		</td>
+	</tr>
+</table>
+<script src="/toprx/e/extend/DoTimeRepage/"></script>
+</div>
+</body>
+</html>

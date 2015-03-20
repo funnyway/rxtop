@@ -1,0 +1,1 @@
+document.write("$class = \'\';if($GLOBALS[\'navinfor\'][\'id\']==$r[id]){	$class = \'xuanzhong\';}$listtemp = \'<a href=\"/toprx/mtbd/41.html\" title=\"媒体报道\" class=\"\'.$class.\'\">· 媒体报道</a>\';");
