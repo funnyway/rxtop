@@ -26,7 +26,7 @@ if(!defined('InEmpireCMS'))
 </table>
 <table width="1180" border="0" cellpadding="0" cellspacing="0" class="dh">
 	<tr>
-		<td align="right" valign="top"><a href="/toprx/" class="dh" <?php if($_GET['enews']=='ReIndex'){?>style="color:#0098D9"<?php }?>>首页</a>　<a href="/toprx/js/1.html" class="dh" <?php if($GLOBALS['navclassid']==1){?>style="color:#0098D9"<?php }?>>技术·服务</a>　<a href="/toprx/al/35.html" class="dh" <?php if($GLOBALS['navclassid']==4){?>style="color:#0098D9"<?php }?>>案例</a>　<a href="/toprx/wd/6.html" class="dh" <?php if($GLOBALS['navclassid']==3){?>style="color:#0098D9"<?php }?>>开放文档</a>　<a href="/toprx/kfzzx/37.html" class="dh" <?php if($GLOBALS['navclassid']==9){?>style="color:#0098D9"<?php }?>>开发者中心</a>　</td>
+		<td align="right" valign="top"><a href="/toprx/" class="dh" <?php if($_GET['enews']=='ReIndex'){?>style="color:#0098D9"<?php }?>>首页</a>　<a href="/toprx/js/1.html" class="dh" <?php if($GLOBALS['navclassid']==1){?>style="color:#0098D9"<?php }?>>技术·服务</a>　<a href="/toprx/al/35.html" class="dh" <?php if($GLOBALS['navclassid']==4){?>style="color:#0098D9"<?php }?>>案例</a>　<a href="/toprx/wd/6.html" class="dh" <?php if($GLOBALS['navclassid']==3){?>style="color:#0098D9"<?php }?>>开放文档</a>　<a href="/toprx/hi/index.php" class="dh" <?php if($GLOBALS['navclassid']==9){?>style="color:#0098D9"<?php }?>>开发者中心</a>　</td>
 	</tr>
 </table>
 		<table width="1180" border="0" cellspacing="0" cellpadding="0">
@@ -147,9 +147,9 @@ $bqno++;
 				<td colspan="3"><h1>合作伙伴</h1></td>
 			</tr>
 			<tr>
-				<td width="30"><img src="images_r11_c4.jpg" width="11" height="21" /></td>
+				<td width="30"><img src="images/TopRx_r11_c4.jpg" width="11" height="21" /></td>
 				<td align="center"><? @sys_GetEcmsInfo(8,7,32,0,0,18,0);?></td>
-				<td><img src="images_r11_c23.jpg" width="14" height="21" /></td>
+				<td><img src="images/TopRx_r11_c23.jpg" width="14" height="21" /></td>
 			</tr>
 		</table>
 		<table border="0" cellpadding="0" cellspacing="0" bgcolor="#999999" class="bottom">
