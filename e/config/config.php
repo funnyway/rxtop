@@ -9,34 +9,55 @@ $ecms_config=array();
 //数据库设置
 $ecms_config['db']['usedb']='mysql';	//数据库类型
 $ecms_config['db']['dbver']='5.0';	//数据库版本
-$ecms_config['db']['dbserver']='218.245.5.75';//数据库登录地址
-$ecms_config['db']['dbport']='3306';	//端口，不填为按默认
-$ecms_config['db']['dbusername']='root';	//数据库用户名
+
+\$ecms_config['db']['dbserver']='218.245.5.75';//数据库登录地址
+
+\$ecms_config['db']['dbport']='3306';	//端口，不填为按默认
+
+\$ecms_config['db']['dbusername']='root';	//数据库用户名
+
 $ecms_config['db']['dbpassword']='hdjs_2013';	//数据库密码
-//$ecms_config['db']['dbname']='toprx';	//数据库名（主机数据库）
+//
+$ecms_config['db']['dbname']='toprx';	//数据库名（主机数据库）
+
 $ecms_config['db']['dbname']='toprx_dir';	//数据库名（非主机数据库，数据库记录中带着“toprx/”这个目录）等以后有了域名要换成16行注释掉的数据库。或者批量替换数据记录中的"toprx/e/"为"e/"
+
 $ecms_config['db']['setchar']='utf8';	//设置默认编码
+
 $ecms_config['db']['dbchar']='utf8';	//数据库默认编码
+
 $ecms_config['db']['dbtbpre']='toprx_';	//数据表前缀
-$dbtbpre=$ecms_config['db']['dbtbpre'];	//数据表前缀
+
+$dbtbpre=
+$ecms_config['db']['dbtbpre'];	//数据表前缀
+
 $ecms_config['db']['showerror']=1;	//显示SQL错误提示(0为不显示,1为显示)
 
 
 //页面编码设置
+
 $ecms_config['sets']['pagechar']='utf-8';	//安装帝国CMS的编码版本
+
 $ecms_config['sets']['setpagechar']=1;	//页面默认字符集,0=关闭 1=开启
+
 $ecms_config['sets']['elang']='gb';	//语言包
 
 //后台相关配置
+
 $ecms_config['esafe']['openonlinesetting']=3;	//开启后台在线配置参数(0为关闭,1为开启防火墙配置,2为开启安全配置,3为全开启)
+
 $ecms_config['esafe']['openeditdttemp']=1;	//开启后台在线修改动态模板(0为关闭,1为开启)
 
 //易通行系统配置
+
 $ecms_config['epassport']['open']=0;	//是否开启易通行系统(1为开启，0为关闭)
 
 //其它配置
+
 $ecms_config['sets']['txtpath']=ECMS_PATH.'d/txt/';	//文本型数据存放目录
+
 $ecms_config['sets']['saveurlimgclearurl']=0;	//远程保存图片自动去除图片的链接(0为保留,1为去除)
+
 $ecms_config['sets']['deftempid']=0;	//默认模板组ID
 
 
@@ -44,25 +65,46 @@ $ecms_config['sets']['deftempid']=0;	//默认模板组ID
 //-------EmpireCMS.Seting.member-------
 
 //会员系统相关配置
-$ecms_config['member']['tablename']="{$dbtbpre}enewsmember";	//会员表
-$user_tablename=$ecms_config['member']['tablename'];	//会员表
+
+$ecms_config['member']['tablename']="{
+$dbtbpre}enewsmember";	//会员表
+
+$user_tablename=
+$ecms_config['member']['tablename'];	//会员表
+
 $ecms_config['member']['changeregisterurl']="ChangeRegister.php";    //多会员组中转注册地址
+
 $ecms_config['member']['registerurl']="";							//会员注册地址
+
 $ecms_config['member']['loginurl']="";								//会员登录地址
+
 $ecms_config['member']['quiturl']="";								//会员退出地址
+
 $ecms_config['member']['chmember']=0;//是否使用原版会员表信息,0为原版,1为非原版
+
 $ecms_config['member']['pwtype']=2;//密码保存形式,0为md5,1为明码,2为双重加密,3为16位md5
+
 $ecms_config['member']['regtimetype']=1;//注册时间保存格式,0为正常时间,1为数值型
+
 $ecms_config['member']['regcookietime']=0;//注册后登录保存时间(秒)
+
 $ecms_config['member']['defgroupid']=0;//注册时会员组ID(ecms的会员组,0为后台默认)
+
 $ecms_config['member']['saltnum']=6;//SALT随机码字符数
+
 $ecms_config['member']['utfdata']=0;//数据是否是GBK编码,0为正常数据,1为GBK编码
 
+
 $ecms_config['memberf']['userid']='userid';//用户ID字段
+
 $ecms_config['memberf']['username']='username';//用户名字段
+
 $ecms_config['memberf']['password']='password';//密码字段
+
 $ecms_config['memberf']['rnd']='rnd';//随机密码字段
+
 $ecms_config['memberf']['email']='email';//邮箱字段
+
 $ecms_config['memberf']['registertime']='registertime';//注册时间字段
 $ecms_config['memberf']['groupid']='groupid';//会员组字段
 $ecms_config['memberf']['userfen']='userfen';//积分字段

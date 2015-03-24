@@ -5,7 +5,6 @@ define('InEmpireCMS',TRUE);
 define('ECMS_PATH',substr(dirname(__FILE__),0,-7));
 define('MAGIC_QUOTES_GPC',function_exists('get_magic_quotes_gpc')&&get_magic_quotes_gpc());
 define('STR_IREPLACE',function_exists('str_ireplace'));
-
 $ecms_config=array();
 $public_r=array();
 $public_diyr=array();
