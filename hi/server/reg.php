@@ -1,18 +1,25 @@
 <?php
-print_r($_POST);die;
 require("../hi_init.php");
 $account = PAPI_GetSafeParam('us');
 $password = PAPI_GetSafeParam('password');
-$cname = PAPI_GetSafeParam('cname');
-if($db->get_one("select * from publicapi_user where cname='$account'")) {
-	die('账户已存在');
+$cname = PAPI_GetSafeParam('cn');
+if($db->get_one("select * from publicapi_user where account='$account'")) {
+	$rs['status']  = 0;
+	$rs['msg'] = '账户已存在';
+	echo json_encode($rs);
+	die;
 }
 if($db->get_one("select * from publicapi_user where cname='$cname'")) {
-	die('企业名称已存在');
+	$rs['status']  = 0;
+	$rs['msg'] = '企业名称已存在';
+	echo json_encode($rs);
 }
 $cid = time();
-if($db->get_one("select * from publicapi_user where cname='$cid'")) {
-	die('访问频繁，请稍等');
+if($db->get_one("select * from publicapi_user where cid='$cid'")) {
+	$rs['status']  = 0;
+	$rs['msg'] = '注册频繁，请稍等';
+	echo json_encode($rs);
+	die;
 }
 $data['cid'] = time();
 $data['account']  = $account;

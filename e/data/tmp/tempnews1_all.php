@@ -10,16 +10,16 @@ if(!defined('InEmpireCMS'))
 <title><?=$grpagetitle?> - Powered by EmpireCMS</title>
 <meta name="keywords" content="<?=$ecms_gr[keyboard]?>" />
 <meta name="description" content="<?=$grpagetitle?>" />
-<link href="/toprx/skin/default/css/style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="/toprx/skin/default/js/tabs.js"></script>
-<script type="text/javascript" src="/toprx/e/data/js/ajax.js"></script>
+<link href="/skin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/skin/default/js/tabs.js"></script>
+<script type="text/javascript" src="/e/data/js/ajax.js"></script>
 </head>
 <body class="showpage news">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tr>
-		<td rowspan="2"><img src="/toprx/images/TopRx_r2_c3.jpg" width="282" height="72" /></td>
-		<!--<td width="60"><a href="login.html"><img src="/toprx/images/TopRx_r1_c19.jpg" width="54" height="28" border="0" /></a></td>
-		<td width="120"><a href="zc.html"><img src="/toprx/images/TopRx_r1_c21.jpg" width="54" height="28" border="0" /></a></td>-->
+		<td rowspan="2"><img src="/images/TopRx_r2_c3.jpg" width="282" height="72" /></td>
+		<!--<td width="60"><a href="login.html"><img src="/images/TopRx_r1_c19.jpg" width="54" height="28" border="0" /></a></td>
+		<td width="120"><a href="zc.html"><img src="/images/TopRx_r1_c21.jpg" width="54" height="28" border="0" /></a></td>-->
 	</tr>
 	<tr>
 		<td colspan="2">&nbsp;</td>
@@ -27,7 +27,7 @@ if(!defined('InEmpireCMS'))
 </table>
 <table width="1180" border="0" cellpadding="0" cellspacing="0" class="dh">
 	<tr>
-		<td align="right" valign="top"><a href="/toprx/" class="dh" <?php if($_GET['enews']=='ReIndex'){?>style="color:#0098D9"<?php }?>>首页</a>　<a href="/toprx/js/1.html" class="dh" <?php if($GLOBALS['navclassid']==1){?>style="color:#0098D9"<?php }?>>技术·服务</a>　<a href="/toprx/al/35.html" class="dh" <?php if($GLOBALS['navclassid']==4){?>style="color:#0098D9"<?php }?>>案例</a>　<a href="/toprx/wd/6.html" class="dh" <?php if($GLOBALS['navclassid']==3){?>style="color:#0098D9"<?php }?>>开放文档</a>　<a href="/toprx/hi/index.php" class="dh" <?php if($GLOBALS['navclassid']==9){?>style="color:#0098D9"<?php }?>>开发者中心</a>　</td>
+		<td align="right" valign="top"><a href="/" class="dh" <?php if($_GET['enews']=='ReIndex'){?>style="color:#0098D9"<?php }?>>首页</a>　<a href="/js/1.html" class="dh" <?php if($GLOBALS['navclassid']==1){?>style="color:#0098D9"<?php }?>>技术·服务</a>　<a href="/al/35.html" class="dh" <?php if($GLOBALS['navclassid']==4){?>style="color:#0098D9"<?php }?>>案例</a>　<a href="/wd/6.html" class="dh" <?php if($GLOBALS['navclassid']==3){?>style="color:#0098D9"<?php }?>>开放文档</a>　<a href="/hi/index.php" class="dh" <?php if($GLOBALS['navclassid']==9){?>style="color:#0098D9"<?php }?>>开发者中心</a>　</td>
 	</tr>
 </table>
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
@@ -57,18 +57,18 @@ if(!defined('InEmpireCMS'))
 <tr>
 <td><table border="0" align="center" cellpadding="0" cellspacing="0" class="digg">
 <tr>
-<td class="diggnum" id="diggnum"><strong><script type="text/javascript" src="/toprx/e/public/ViewClick/?classid=<?=$ecms_gr[classid]?>&id=<?=$ecms_gr[id]?>&down=5"></script></strong></td>
+<td class="diggnum" id="diggnum"><strong><script type="text/javascript" src="/e/public/ViewClick/?classid=<?=$ecms_gr[classid]?>&id=<?=$ecms_gr[id]?>&down=5"></script></strong></td>
 </tr>
 <tr>
-<td class="diggit"><a href="JavaScript:makeRequest('/toprx/e/public/digg/?classid=<?=$ecms_gr[classid]?>&id=<?=$ecms_gr[id]?>&dotop=1&doajax=1&ajaxarea=diggnum','EchoReturnedText','GET','');">来顶一下</a></td>
+<td class="diggit"><a href="JavaScript:makeRequest('/e/public/digg/?classid=<?=$ecms_gr[classid]?>&id=<?=$ecms_gr[id]?>&dotop=1&doajax=1&ajaxarea=diggnum','EchoReturnedText','GET','');">来顶一下</a></td>
 </tr>
 </table></td>
 <td><table border="0" align="center" cellpadding="0" cellspacing="0" class="digg">
 <tr>
-<td valign="middle" class="diggnum"><strong><a href="/toprx/"><img src="/toprx/skin/default/images/back.gif" alt="返回首页" width="12" height="13" border="0" align="absmiddle" /></a></strong></td>
+<td valign="middle" class="diggnum"><strong><a href="/"><img src="/skin/default/images/back.gif" alt="返回首页" width="12" height="13" border="0" align="absmiddle" /></a></strong></td>
 </tr>
 <tr>
-<td class="diggit"><a href="/toprx/">返回首页</a></td>
+<td class="diggit"><a href="/">返回首页</a></td>
 </tr>
 </table></td>
 </tr>
@@ -87,14 +87,14 @@ if(!defined('InEmpireCMS'))
 		  }
 		  return true;
 		  }
-		  </script><form action="/toprx/e/pl/doaction.php" method="post" name="saypl" id="saypl" onsubmit="return CheckPl(document.saypl)">
+		  </script><form action="/e/pl/doaction.php" method="post" name="saypl" id="saypl" onsubmit="return CheckPl(document.saypl)">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" id="plpost">
 
 <tr>
 <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="title">
 <tr>
 <td><strong>发表评论</strong></td>
-<td align="right"><a href="/toprx/e/pl/?classid=<?=$ecms_gr[classid]?>&amp;id=<?=$ecms_gr[id]?>">共有<span><script type="text/javascript" src="/toprx/e/public/ViewClick/?classid=<?=$ecms_gr[classid]?>&id=<?=$ecms_gr[id]?>&down=2"></script></span>条评论</a></td>
+<td align="right"><a href="/e/pl/?classid=<?=$ecms_gr[classid]?>&amp;id=<?=$ecms_gr[id]?>">共有<span><script type="text/javascript" src="/e/public/ViewClick/?classid=<?=$ecms_gr[classid]?>&id=<?=$ecms_gr[id]?>&down=2"></script></span>条评论</a></td>
 </tr>
 </table>
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
@@ -109,12 +109,12 @@ if(!defined('InEmpireCMS'))
 <tr>
 <td align="left">验证码:
 <input name="key" type="text" class="inputText" size="10" />
-<img src="/toprx/e/ShowKey/?v=pl" align="absmiddle" /> </td>
+<img src="/e/ShowKey/?v=pl" align="absmiddle" /> </td>
 <td align="left"><input name="nomember" type="checkbox" id="nomember" value="1" checked="checked" />
 匿名发表</td>
 </tr>
 </table>
-<textarea name="saytext" rows="6" id="saytext"></textarea><input name="imageField" type="image" src="/toprx/e/data/images/postpl.gif"/>
+<textarea name="saytext" rows="6" id="saytext"></textarea><input name="imageField" type="image" src="/e/data/images/postpl.gif"/>
 <input name="id" type="hidden" id="id" value="<?=$ecms_gr[id]?>" />
 <input name="classid" type="hidden" id="classid" value="<?=$ecms_gr[classid]?>" />
 <input name="enews" type="hidden" id="enews" value="AddPl" />
@@ -157,7 +157,7 @@ if(!defined('InEmpireCMS'))
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
 <tr>
 <td><ul>
-              <script src='/toprx/d/js/class/class<?=$ecms_gr[classid]?>_newnews.js'></script></ul></td>
+              <script src='/d/js/class/class<?=$ecms_gr[classid]?>_newnews.js'></script></ul></td>
 </tr>
 </table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="title margin_top">
@@ -168,7 +168,7 @@ if(!defined('InEmpireCMS'))
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
 <tr>
 <td><ul>
-              <script src='/toprx/d/js/class/class<?=$ecms_gr[classid]?>_hotnews.js'></script></ul></td>
+              <script src='/d/js/class/class<?=$ecms_gr[classid]?>_hotnews.js'></script></ul></td>
 </tr>
 </table></td>
 </tr>
@@ -179,26 +179,26 @@ if(!defined('InEmpireCMS'))
 			<div class="bottomdiv">
 				<ul>
 					<li>TopRx</li>
-					<li><a href="/toprx/wzgk/5.html" class="BO">关于我们</a></li>
-					<li><a href="/toprx/wzgk/38.html" class="BO">加入我们</a></li>
-					<li><a href="/toprx/wzgk/39.html" class="BO">隐私政策</a></li>
-					<li><a href="/toprx/wzgk/40.html" class="BO">使用条款</a></li>
+					<li><a href="/wzgk/5.html" class="BO">关于我们</a></li>
+					<li><a href="/wzgk/38.html" class="BO">加入我们</a></li>
+					<li><a href="/wzgk/39.html" class="BO">隐私政策</a></li>
+					<li><a href="/wzgk/40.html" class="BO">使用条款</a></li>
 				</ul>
 			</div>
 			<div class="bottomdiv">
 				<ul>
 					<li>新闻</li>
-					<li><a href="/toprx/mtbd/41.html" class="BO">媒体报道</a></li>
-					<li><a href="/toprx/gxrz/42.html" class="BO">更新日志</a></li>
+					<li><a href="/mtbd/41.html" class="BO">媒体报道</a></li>
+					<li><a href="/gxrz/42.html" class="BO">更新日志</a></li>
 				</ul>
 			</div>      
 			<div class="bottomdiv">
 				<ul>
 					<li>支持</li>
-					<li><a href="/toprx/wd/6.html" class="BO">API文档</a></li>
-					<li><a href="/toprx/kfzzx/37.html" class="BO">开发工具与SDK</a></li>
-					<li><a href="/toprx/xsyj/43.html" class="BO">学术研究</a></li>
-					<li><a href="/toprx/cjwt/44.html" class="BO">常见问题</a></li>
+					<li><a href="/wd/6.html" class="BO">API文档</a></li>
+					<li><a href="/kfzzx/37.html" class="BO">开发工具与SDK</a></li>
+					<li><a href="/xsyj/43.html" class="BO">学术研究</a></li>
+					<li><a href="/cjwt/44.html" class="BO">常见问题</a></li>
 				</ul>
 			</div>
 		</td>
@@ -207,7 +207,7 @@ if(!defined('InEmpireCMS'))
 		</td>
 	</tr>
 </table>
-<script src="/toprx/e/extend/DoTimeRepage/"></script>
+<script src="/e/extend/DoTimeRepage/"></script>
 <?='<script src="'.$public_r[newsurl].'e/public/onclick/?enews=donews&classid='.$ecms_gr[classid].'&id='.$ecms_gr[id].'"></script>'?>
 </body>
 </html>

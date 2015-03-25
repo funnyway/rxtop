@@ -122,22 +122,26 @@ require("hi_init.php");
     <td align="left" valign="top">
 	<div class="loginright">
 		     <div class="logintop">账号登录</div>
+		     <form id="loginform">
 			 <table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
                <tr>
-                 <td height="40">&nbsp;</td>
+                 <td height="40"></td>
                </tr>
              </table>
 			 <table class="logintable" width="300" border="0" align="center" cellpadding="0" cellspacing="0">
+			     
   <tr>
     <td width="80">账户名</td>
     <td><label>
-      <input class="logininput" type="text" name="textfield" />
+
+      <input class="logininput" type="text" id="us" name="us" />
+      <div id="usTip" style="width: 150px">111</div>
     </label></td>
   </tr>
   <tr>
     <td>密　码</td>
     <td><label>
-      <input class="logininput" type="text" name="textfield" />
+      <input class="logininput" type="password" name="password" />
     </label></td>
   </tr>
   <tr>
@@ -148,6 +152,7 @@ require("hi_init.php");
       <span class="reg-a">　　　　　　　<a href="#">忘记密码</a> </span></td>
     </tr>
   <tr>
+  </form>
     <td colspan="2"><table width="100%" height="60" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td align="center"><a href="#"><button class="btns2" style="line-height:34px;">登录
@@ -164,7 +169,46 @@ require("hi_init.php");
 	</td>
   </tr>
 </table>
+<script src="js/formValidator/jquery-1.4.4.min.js"
+	type="text/javascript"></script>
+<link type="text/css" rel="stylesheet"
+	href="js/formValidator/style/validator.css"></link>
+<script src="js/formValidator/formValidator-4.0.1.js"
+	type="text/javascript" charset="UTF-8"></script>
+<script type="text/javascript">
+$(function() {
+	$.formValidator.initConfig({formID:"loginform",debug:false,submitOnce:true,
+		onError:function(msg,obj,errorlist){
+			$("#errorlist").empty();
+			$.map(errorlist,function(msg){
+				$("#errorlist").append("<li>" + msg + "</li>")
+			});
+			alert(msg);
+		},
+		submitAfterAjaxPrompt : '有数据正在异步验证，请稍等...'
+	});
+	$('#us').formValidator({onShow:"",onFocus:"",onCorrect:""})
+	.ajaxValidator({
+		 	type:'POST',
+			dataType : "json",
+			url : "ajax/checkunique.php",
+			data:{key:'username'},
+			success : function(data){
+				console.log(data);
+	            if( data.status == 0 ) return true;
+	            if( data.status == 1 ) return false;
+				return false;
+			},
+			buttons: $("#btn_submit"),
+			error: function(jqXHR, textStatus, errorThrown){alert("服务器没有返回数据，可能服务器忙，请重试"+errorThrown);},
+			onError : "用户名不存在",
+			onWait : ""
+		}).defaultPassed();
+})
+
+</script>
 <?php
 
 include('template/foot.temp.php');
 ?>
+

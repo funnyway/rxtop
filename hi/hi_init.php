@@ -8,6 +8,7 @@ require (ROOT.'/hi/config/config.php');//引入远程数据库配置覆盖本地
 require(ROOT.'/hi/class/mysql.php'); //引入数据库配置文件和公共函数文件
 //require(ROOT.'/e/class/db_sql.php'); //引入数据库操作文件
 
+session_start();
 
 $db = new DB($db_config);
 global $public_r;
@@ -67,4 +68,17 @@ function PAPI_GetSafeParam($pi_strName, $pi_Def = "", $pi_iType = XH_PARAM_TXT)
 function getSecret($length) {
 	$str = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890';
 	return substr(str_shuffle($str), 0, $length);
+}
+/*
+ * session操作
+ */
+function session($key=null,$value=null) {
+	if(!$key&&!value) {
+		session_destroy();
+	}
+	if(!$value&&$key) {
+		unset($_SESSION[$key]); 
+	}elseif($key&&$value) {
+		$_SESSION[$key] = $value;
+	}
 }

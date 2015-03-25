@@ -10,15 +10,15 @@ if(!defined('InEmpireCMS'))
 <title><?=$grpagetitle?></title>
 <meta name="keywords" content="<?=$ecms_gr[keyboard]?>" />
 <meta name="description" content="<?=$grpagetitle?>" />
-<link href="/toprx/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div class="box">
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tr>
-		<td rowspan="2"><img src="/toprx/images/TopRx_r2_c3.jpg" width="282" height="72" /></td>
-		<!--<td width="60"><a href="login.html"><img src="/toprx/images/TopRx_r1_c19.jpg" width="54" height="28" border="0" /></a></td>
-		<td width="120"><a href="zc.html"><img src="/toprx/images/TopRx_r1_c21.jpg" width="54" height="28" border="0" /></a></td>-->
+		<td rowspan="2"><img src="/images/TopRx_r2_c3.jpg" width="282" height="72" /></td>
+		<!--<td width="60"><a href="login.html"><img src="/images/TopRx_r1_c19.jpg" width="54" height="28" border="0" /></a></td>
+		<td width="120"><a href="zc.html"><img src="/images/TopRx_r1_c21.jpg" width="54" height="28" border="0" /></a></td>-->
 	</tr>
 	<tr>
 		<td colspan="2">&nbsp;</td>
@@ -26,7 +26,7 @@ if(!defined('InEmpireCMS'))
 </table>
 <table width="1180" border="0" cellpadding="0" cellspacing="0" class="dh">
 	<tr>
-		<td align="right" valign="top"><a href="/toprx/" class="dh" <?php if($_GET['enews']=='ReIndex'){?>style="color:#0098D9"<?php }?>>首页</a>　<a href="/toprx/js/1.html" class="dh" <?php if($GLOBALS['navclassid']==1){?>style="color:#0098D9"<?php }?>>技术·服务</a>　<a href="/toprx/al/35.html" class="dh" <?php if($GLOBALS['navclassid']==4){?>style="color:#0098D9"<?php }?>>案例</a>　<a href="/toprx/wd/6.html" class="dh" <?php if($GLOBALS['navclassid']==3){?>style="color:#0098D9"<?php }?>>开放文档</a>　<a href="/toprx/hi/index.php" class="dh" <?php if($GLOBALS['navclassid']==9){?>style="color:#0098D9"<?php }?>>开发者中心</a>　</td>
+		<td align="right" valign="top"><a href="/" class="dh" <?php if($_GET['enews']=='ReIndex'){?>style="color:#0098D9"<?php }?>>首页</a>　<a href="/js/1.html" class="dh" <?php if($GLOBALS['navclassid']==1){?>style="color:#0098D9"<?php }?>>技术·服务</a>　<a href="/al/35.html" class="dh" <?php if($GLOBALS['navclassid']==4){?>style="color:#0098D9"<?php }?>>案例</a>　<a href="/wd/6.html" class="dh" <?php if($GLOBALS['navclassid']==3){?>style="color:#0098D9"<?php }?>>开放文档</a>　<a href="/hi/index.php" class="dh" <?php if($GLOBALS['navclassid']==9){?>style="color:#0098D9"<?php }?>>开发者中心</a>　</td>
 	</tr>
 </table>
 		<table width="1180" border="0" cellspacing="0" cellpadding="0">
@@ -58,26 +58,26 @@ if(!defined('InEmpireCMS'))
 			<div class="bottomdiv">
 				<ul>
 					<li>TopRx</li>
-					<li><a href="/toprx/wzgk/5.html" class="BO">关于我们</a></li>
-					<li><a href="/toprx/wzgk/38.html" class="BO">加入我们</a></li>
-					<li><a href="/toprx/wzgk/39.html" class="BO">隐私政策</a></li>
-					<li><a href="/toprx/wzgk/40.html" class="BO">使用条款</a></li>
+					<li><a href="/wzgk/5.html" class="BO">关于我们</a></li>
+					<li><a href="/wzgk/38.html" class="BO">加入我们</a></li>
+					<li><a href="/wzgk/39.html" class="BO">隐私政策</a></li>
+					<li><a href="/wzgk/40.html" class="BO">使用条款</a></li>
 				</ul>
 			</div>
 			<div class="bottomdiv">
 				<ul>
 					<li>新闻</li>
-					<li><a href="/toprx/mtbd/41.html" class="BO">媒体报道</a></li>
-					<li><a href="/toprx/gxrz/42.html" class="BO">更新日志</a></li>
+					<li><a href="/mtbd/41.html" class="BO">媒体报道</a></li>
+					<li><a href="/gxrz/42.html" class="BO">更新日志</a></li>
 				</ul>
 			</div>      
 			<div class="bottomdiv">
 				<ul>
 					<li>支持</li>
-					<li><a href="/toprx/wd/6.html" class="BO">API文档</a></li>
-					<li><a href="/toprx/kfzzx/37.html" class="BO">开发工具与SDK</a></li>
-					<li><a href="/toprx/xsyj/43.html" class="BO">学术研究</a></li>
-					<li><a href="/toprx/cjwt/44.html" class="BO">常见问题</a></li>
+					<li><a href="/wd/6.html" class="BO">API文档</a></li>
+					<li><a href="/kfzzx/37.html" class="BO">开发工具与SDK</a></li>
+					<li><a href="/xsyj/43.html" class="BO">学术研究</a></li>
+					<li><a href="/cjwt/44.html" class="BO">常见问题</a></li>
 				</ul>
 			</div>
 		</td>
@@ -86,7 +86,7 @@ if(!defined('InEmpireCMS'))
 		</td>
 	</tr>
 </table>
-<script src="/toprx/e/extend/DoTimeRepage/"></script>
+<script src="/e/extend/DoTimeRepage/"></script>
 	</div>
 </body>
 </html>

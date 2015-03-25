@@ -11,9 +11,9 @@ if($key == 'username'){
 }
 if($rs = $db->get_one($sql)) {
 	$data['status'] = 0;
-	$data['msg'] = $key.'已存在';
+	$data['msg'] = $key.'存在';
 }else {
 	$data['status'] = 1;
-	$data['msg'] =	 $key.'可以注册';
+	$data['msg'] =	 $key.'不存在，可以注册';
 }
 echo json_encode($data);

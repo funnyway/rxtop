@@ -10,17 +10,17 @@ $ecms_config=array();
 $ecms_config['db']['usedb']='mysql';	//数据库类型
 $ecms_config['db']['dbver']='5.0';	//数据库版本
 
-\$ecms_config['db']['dbserver']='218.245.5.75';//数据库登录地址
+$ecms_config['db']['dbserver']='218.245.5.75';//数据库登录地址
 
-\$ecms_config['db']['dbport']='3306';	//端口，不填为按默认
+$ecms_config['db']['dbport']='3306';	//端口，不填为按默认
 
-\$ecms_config['db']['dbusername']='root';	//数据库用户名
+$ecms_config['db']['dbusername']='root';	//数据库用户名
 
 $ecms_config['db']['dbpassword']='hdjs_2013';	//数据库密码
-//
+
 $ecms_config['db']['dbname']='toprx';	//数据库名（主机数据库）
 
-$ecms_config['db']['dbname']='toprx_dir';	//数据库名（非主机数据库，数据库记录中带着“toprx/”这个目录）等以后有了域名要换成16行注释掉的数据库。或者批量替换数据记录中的"toprx/e/"为"e/"
+//$ecms_config['db']['dbname']='toprx_dir';	//数据库名（非主机数据库，数据库记录中带着“toprx/”这个目录）等以后有了域名要换成16行注释掉的数据库。或者批量替换数据记录中的"toprx/e/"为"e/"
 
 $ecms_config['db']['setchar']='utf8';	//设置默认编码
 
@@ -28,8 +28,7 @@ $ecms_config['db']['dbchar']='utf8';	//数据库默认编码
 
 $ecms_config['db']['dbtbpre']='toprx_';	//数据表前缀
 
-$dbtbpre=
-$ecms_config['db']['dbtbpre'];	//数据表前缀
+$dbtbpre=$ecms_config['db']['dbtbpre'];	//数据表前缀
 
 $ecms_config['db']['showerror']=1;	//显示SQL错误提示(0为不显示,1为显示)
 
@@ -66,11 +65,9 @@ $ecms_config['sets']['deftempid']=0;	//默认模板组ID
 
 //会员系统相关配置
 
-$ecms_config['member']['tablename']="{
-$dbtbpre}enewsmember";	//会员表
+$ecms_config['member']['tablename']="{$dbtbpre}enewsmember";	//会员表
 
-$user_tablename=
-$ecms_config['member']['tablename'];	//会员表
+$user_tablename=$ecms_config['member']['tablename'];	//会员表
 
 $ecms_config['member']['changeregisterurl']="ChangeRegister.php";    //多会员组中转注册地址
 
@@ -169,7 +166,7 @@ $ecms_config['sets']['realplayertype']=',.rm,.ra,.rmvb,.mp4,.mov,.avi,.wav,.ram,
 
 //------------e_public
 $public_r=array('sitename'=>'TopRx上方云',
-'newsurl'=>'/toprx/',
+'newsurl'=>'/',
 'filetype'=>'|.gif|.jpg|.swf|.rar|.zip|.mp3|.wmv|.txt|.doc|',
 'filesize'=>2048,
 'relistnum'=>8,
@@ -192,7 +189,7 @@ $public_r=array('sitename'=>'TopRx上方云',
 'exittime'=>40,
 'smalltextlen'=>160,
 'defaultgroupid'=>1,
-'fileurl'=>'/toprx/d/file/',
+'fileurl'=>'/d/file/',
 'install'=>0,
 'phpmode'=>0,
 'dorepnum'=>300,
@@ -280,7 +277,7 @@ $public_r=array('sitename'=>'TopRx上方云',
 'gbkey_ok'=>0,
 'fbkey_ok'=>0,
 'newaddinfotime'=>0,
-'classnavs'=>'<a href=\"/toprx/js/\">技术·服务</a>&nbsp;|&nbsp;<a href=\"/toprx/wzgk/\">网站概况</a>&nbsp;|&nbsp;<a href=\"/toprx/wd/\">开放文档</a>&nbsp;|&nbsp;<a href=\"/toprx/al/\">案例</a>&nbsp;|&nbsp;<a href=\"/toprx/xw/\">新闻动态</a>&nbsp;|&nbsp;<a href=\"/toprx/banner/\">banner</a>&nbsp;|&nbsp;<a href=\"/toprx/banner2/\">二级banner</a>&nbsp;|&nbsp;<a href=\"/toprx/hzhb/\">合作伙伴</a>&nbsp;|&nbsp;<a href=\"/toprx/kfzzx/\">开发者中心</a>&nbsp;|&nbsp;<a href=\"/toprx/mtbd/\">媒体报道</a>&nbsp;|&nbsp;<a href=\"/toprx/gxrz/\">更新日志</a>&nbsp;|&nbsp;<a href=\"/toprx/xsyj/\">学术研究</a>&nbsp;|&nbsp;<a href=\"/toprx/cjwt/\">常见问题</a>',
+'classnavs'=>'<a href=\"/js/\">技术·服务</a>&nbsp;|&nbsp;<a href=\"/wzgk/\">网站概况</a>&nbsp;|&nbsp;<a href=\"/wd/\">开放文档</a>&nbsp;|&nbsp;<a href=\"/al/\">案例</a>&nbsp;|&nbsp;<a href=\"/xw/\">新闻动态</a>&nbsp;|&nbsp;<a href=\"/banner/\">banner</a>&nbsp;|&nbsp;<a href=\"/banner2/\">二级banner</a>&nbsp;|&nbsp;<a href=\"/hzhb/\">合作伙伴</a>&nbsp;|&nbsp;<a href=\"/kfzzx/\">开发者中心</a>&nbsp;|&nbsp;<a href=\"/mtbd/\">媒体报道</a>&nbsp;|&nbsp;<a href=\"/gxrz/\">更新日志</a>&nbsp;|&nbsp;<a href=\"/xsyj/\">学术研究</a>&nbsp;|&nbsp;<a href=\"/cjwt/\">常见问题</a>',
 'adminstyle'=>',1,2,',
 'docnewsnum'=>300,
 'openschall'=>0,
@@ -335,7 +332,7 @@ $public_r=array('sitename'=>'TopRx上方云',
 'filedatatbs'=>',1,',
 'filedeftb'=>1,
 'pldeftb'=>1,
-'plurl'=>'/toprx/e/pl/',
+'plurl'=>'/e/pl/',
 'plkey_ok'=>1,
 'plface'=>'||[~e.jy~]##1.gif||[~e.kq~]##2.gif||[~e.se~]##3.gif||[~e.sq~]##4.gif||[~e.lh~]##5.gif||[~e.ka~]##6.gif||[~e.hh~]##7.gif||[~e.ys~]##8.gif||[~e.ng~]##9.gif||[~e.ot~]##10.gif||',
 'plf'=>'',

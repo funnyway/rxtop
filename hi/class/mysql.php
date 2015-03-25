@@ -51,7 +51,6 @@ Class DB {
         $this->write_log("获取一条记录 ".$sql);
         return $rt;
     }
- 
     //获取全部记录
     public function get_all($sql,$result_type = MYSQL_ASSOC) {
         $query = $this->query($sql);

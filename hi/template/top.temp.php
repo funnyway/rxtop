@@ -22,7 +22,7 @@
   <tr>
     <td align="right"><table width="500" border="0" align="right" cellpadding="0" cellspacing="0" class="dh1">
   <tr>
-    <td align="left" valign="middle">　 <a href="/" class="dh1">首页</a>　　<a href="index07.html" class="dh1">开发者中心</a>　　<a href="index08.html" class="dh1">我的应用</a>　　<a href="index04.html" class="dh1">API文档</a></td>
+    <td align="left" valign="middle">　 <a href="/" class="dh1">首页</a>　　<a href="index.php" class="dh1">开发者中心</a>　　<a href="myapp.php" class="dh1">我的应用</a>　　<a href="index04.html" class="dh1">API文档</a></td>
   </tr>
 </table></td>
   </tr>
