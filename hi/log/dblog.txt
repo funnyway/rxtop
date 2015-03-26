@@ -593,3 +593,2298 @@ Query was empty
 2015-03-25 18:08:45 获取一条记录 select * from publicapi_user where account='admin'
 2015-03-25 18:08:45 释放结果集
 2015-03-25 18:08:45 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 09:12:34 释放结果集
+2015-03-26 09:12:34 完成整个查询任务,所用时间为0.23201322555542
+2015-03-26 09:12:37 释放结果集
+2015-03-26 09:12:37 完成整个查询任务,所用时间为0.0059998035430908
+2015-03-26 09:12:39 查询 select * from publicapi_user where account='ad'
+2015-03-26 09:12:39 获取一条记录 select * from publicapi_user where account='ad'
+2015-03-26 09:12:39 释放结果集
+2015-03-26 09:12:39 完成整个查询任务,所用时间为0.018001079559326
+2015-03-26 09:12:42 查询 select * from publicapi_user where account='admin1'
+2015-03-26 09:12:42 获取一条记录 select * from publicapi_user where account='admin1'
+2015-03-26 09:12:42 释放结果集
+2015-03-26 09:12:42 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:12:45 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:12:45 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:12:45 释放结果集
+2015-03-26 09:12:45 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:12:50 释放结果集
+2015-03-26 09:12:50 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 09:51:55 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:51:55 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:51:55 释放结果集
+2015-03-26 09:51:55 完成整个查询任务,所用时间为0.0089998245239258
+2015-03-26 09:51:58 释放结果集
+2015-03-26 09:51:58 完成整个查询任务,所用时间为0
+2015-03-26 09:51:59 释放结果集
+2015-03-26 09:51:59 完成整个查询任务,所用时间为0
+2015-03-26 09:51:59 释放结果集
+2015-03-26 09:51:59 完成整个查询任务,所用时间为0
+2015-03-26 09:52:00 释放结果集
+2015-03-26 09:52:00 完成整个查询任务,所用时间为0.013000965118408
+2015-03-26 09:52:01 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:52:01 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:52:01 释放结果集
+2015-03-26 09:52:01 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 09:52:07 释放结果集
+2015-03-26 09:52:07 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 09:52:37 释放结果集
+2015-03-26 09:52:37 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 09:52:39 查询 select * from publicapi_user where account=''
+2015-03-26 09:52:39 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:52:39 释放结果集
+2015-03-26 09:52:39 完成整个查询任务,所用时间为0
+2015-03-26 09:52:39 释放结果集
+2015-03-26 09:52:39 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:52:43 查询 select * from publicapi_user where account=''
+2015-03-26 09:52:43 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:52:43 释放结果集
+2015-03-26 09:52:43 完成整个查询任务,所用时间为0.015599966049194
+2015-03-26 09:52:43 释放结果集
+2015-03-26 09:52:43 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:52:46 查询 select * from publicapi_user where account=''
+2015-03-26 09:52:46 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:52:46 释放结果集
+2015-03-26 09:52:46 完成整个查询任务,所用时间为0.0040011405944824
+2015-03-26 09:52:46 释放结果集
+2015-03-26 09:52:46 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:52:49 查询 select * from publicapi_user where account=''
+2015-03-26 09:52:49 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:52:49 释放结果集
+2015-03-26 09:52:49 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:52:49 释放结果集
+2015-03-26 09:52:49 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 09:52:52 查询 select * from publicapi_user where account=''
+2015-03-26 09:52:52 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:52:52 释放结果集
+2015-03-26 09:52:52 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 09:52:52 释放结果集
+2015-03-26 09:52:52 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 09:52:57 释放结果集
+2015-03-26 09:52:57 完成整个查询任务,所用时间为0
+2015-03-26 09:52:59 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:52:59 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:52:59 释放结果集
+2015-03-26 09:52:59 完成整个查询任务,所用时间为0
+2015-03-26 09:53:02 释放结果集
+2015-03-26 09:53:02 完成整个查询任务,所用时间为0
+2015-03-26 09:53:04 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:53:04 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:53:04 释放结果集
+2015-03-26 09:53:04 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 09:53:08 释放结果集
+2015-03-26 09:53:08 完成整个查询任务,所用时间为0.015599966049194
+2015-03-26 09:53:45 释放结果集
+2015-03-26 09:53:45 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:53:53 释放结果集
+2015-03-26 09:53:53 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 09:53:57 释放结果集
+2015-03-26 09:53:57 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 09:54:10 释放结果集
+2015-03-26 09:54:10 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:54:11 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:54:11 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:54:11 释放结果集
+2015-03-26 09:54:11 完成整个查询任务,所用时间为0
+2015-03-26 09:54:18 释放结果集
+2015-03-26 09:54:18 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:54:21 查询 select * from publicapi_user where account=''
+2015-03-26 09:54:21 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:54:21 释放结果集
+2015-03-26 09:54:21 完成整个查询任务,所用时间为0
+2015-03-26 09:54:21 释放结果集
+2015-03-26 09:54:21 完成整个查询任务,所用时间为0
+2015-03-26 09:54:23 查询 select * from publicapi_user where account=''
+2015-03-26 09:54:23 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:54:23 释放结果集
+2015-03-26 09:54:23 完成整个查询任务,所用时间为0
+2015-03-26 09:54:23 释放结果集
+2015-03-26 09:54:23 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 09:54:24 查询 select * from publicapi_user where account=''
+2015-03-26 09:54:24 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:54:24 释放结果集
+2015-03-26 09:54:24 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 09:54:24 释放结果集
+2015-03-26 09:54:24 完成整个查询任务,所用时间为0
+2015-03-26 09:54:26 查询 select * from publicapi_user where account=''
+2015-03-26 09:54:26 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 09:54:26 释放结果集
+2015-03-26 09:54:26 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 09:54:26 释放结果集
+2015-03-26 09:54:26 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 09:55:05 释放结果集
+2015-03-26 09:55:05 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 09:55:10 释放结果集
+2015-03-26 09:55:10 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:56:05 释放结果集
+2015-03-26 09:56:05 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 09:56:13 释放结果集
+2015-03-26 09:56:13 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 09:56:15 查询 select * from publicapi_user where account='aaaa'
+2015-03-26 09:56:15 获取一条记录 select * from publicapi_user where account='aaaa'
+2015-03-26 09:56:15 释放结果集
+2015-03-26 09:56:15 完成整个查询任务,所用时间为0
+2015-03-26 09:56:19 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:56:19 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:56:19 释放结果集
+2015-03-26 09:56:19 完成整个查询任务,所用时间为0
+2015-03-26 09:57:01 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:57:01 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:57:01 释放结果集
+2015-03-26 09:57:01 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 09:57:23 释放结果集
+2015-03-26 09:57:23 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 09:57:49 释放结果集
+2015-03-26 09:57:49 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 09:57:51 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:57:51 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:57:51 释放结果集
+2015-03-26 09:57:51 完成整个查询任务,所用时间为0
+2015-03-26 09:58:06 释放结果集
+2015-03-26 09:58:06 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 09:58:10 查询 select * from publicapi_user where account='aaa'
+2015-03-26 09:58:10 获取一条记录 select * from publicapi_user where account='aaa'
+2015-03-26 09:58:10 释放结果集
+2015-03-26 09:58:10 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 09:58:12 查询 select * from publicapi_user where account='ad'
+2015-03-26 09:58:12 获取一条记录 select * from publicapi_user where account='ad'
+2015-03-26 09:58:12 释放结果集
+2015-03-26 09:58:12 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 09:58:18 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:58:18 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:58:18 释放结果集
+2015-03-26 09:58:18 完成整个查询任务,所用时间为0.0049998760223389
+2015-03-26 09:59:13 释放结果集
+2015-03-26 09:59:13 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 09:59:15 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:59:15 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:59:15 释放结果集
+2015-03-26 09:59:15 完成整个查询任务,所用时间为0
+2015-03-26 09:59:21 释放结果集
+2015-03-26 09:59:21 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 09:59:22 查询 select * from publicapi_user where account='admin'
+2015-03-26 09:59:22 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 09:59:22 释放结果集
+2015-03-26 09:59:22 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:00:02 释放结果集
+2015-03-26 10:00:02 完成整个查询任务,所用时间为0
+2015-03-26 10:00:03 释放结果集
+2015-03-26 10:00:03 完成整个查询任务,所用时间为0.015599966049194
+2015-03-26 10:00:12 释放结果集
+2015-03-26 10:00:12 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:00:19 释放结果集
+2015-03-26 10:00:19 完成整个查询任务,所用时间为0
+2015-03-26 10:00:19 释放结果集
+2015-03-26 10:00:19 完成整个查询任务,所用时间为0
+2015-03-26 10:00:20 释放结果集
+2015-03-26 10:00:20 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:00:20 释放结果集
+2015-03-26 10:00:20 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:00:20 释放结果集
+2015-03-26 10:00:20 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:00:36 释放结果集
+2015-03-26 10:00:36 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 10:00:40 释放结果集
+2015-03-26 10:00:40 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:00:42 释放结果集
+2015-03-26 10:00:42 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:00:42 释放结果集
+2015-03-26 10:00:42 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:00:43 释放结果集
+2015-03-26 10:00:43 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 10:01:32 释放结果集
+2015-03-26 10:01:32 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:01:34 释放结果集
+2015-03-26 10:01:34 完成整个查询任务,所用时间为0
+2015-03-26 10:01:35 释放结果集
+2015-03-26 10:01:35 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:01:36 释放结果集
+2015-03-26 10:01:36 完成整个查询任务,所用时间为0.015599966049194
+2015-03-26 10:01:36 释放结果集
+2015-03-26 10:01:36 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:01:40 释放结果集
+2015-03-26 10:01:40 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:01:42 释放结果集
+2015-03-26 10:01:42 完成整个查询任务,所用时间为0
+2015-03-26 10:01:49 释放结果集
+2015-03-26 10:01:49 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:01:50 释放结果集
+2015-03-26 10:01:50 完成整个查询任务,所用时间为0
+2015-03-26 10:01:52 释放结果集
+2015-03-26 10:01:52 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:01:53 释放结果集
+2015-03-26 10:01:53 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:01:53 释放结果集
+2015-03-26 10:01:53 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 10:01:53 释放结果集
+2015-03-26 10:01:53 完成整个查询任务,所用时间为0.016600131988525
+2015-03-26 10:01:54 释放结果集
+2015-03-26 10:01:54 完成整个查询任务,所用时间为0
+2015-03-26 10:01:54 释放结果集
+2015-03-26 10:01:54 完成整个查询任务,所用时间为0
+2015-03-26 10:01:54 释放结果集
+2015-03-26 10:01:54 完成整个查询任务,所用时间为0
+2015-03-26 10:01:54 释放结果集
+2015-03-26 10:01:54 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:01:55 释放结果集
+2015-03-26 10:01:55 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:01:55 释放结果集
+2015-03-26 10:01:55 完成整个查询任务,所用时间为0
+2015-03-26 10:01:55 释放结果集
+2015-03-26 10:01:55 完成整个查询任务,所用时间为0
+2015-03-26 10:04:08 释放结果集
+2015-03-26 10:04:08 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:04:09 释放结果集
+2015-03-26 10:04:09 完成整个查询任务,所用时间为0
+2015-03-26 10:04:11 释放结果集
+2015-03-26 10:04:11 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:04:23 释放结果集
+2015-03-26 10:04:23 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 10:04:46 释放结果集
+2015-03-26 10:04:46 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 10:05:01 释放结果集
+2015-03-26 10:05:01 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:05:14 释放结果集
+2015-03-26 10:05:14 完成整个查询任务,所用时间为0.027001142501831
+2015-03-26 10:05:24 释放结果集
+2015-03-26 10:05:24 完成整个查询任务,所用时间为0
+2015-03-26 10:06:03 释放结果集
+2015-03-26 10:06:03 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:06:47 释放结果集
+2015-03-26 10:06:47 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 10:07:21 释放结果集
+2015-03-26 10:07:21 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:08:16 释放结果集
+2015-03-26 10:08:16 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:08:47 释放结果集
+2015-03-26 10:08:47 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 10:09:07 释放结果集
+2015-03-26 10:09:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:09:13 释放结果集
+2015-03-26 10:09:13 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:12:49 释放结果集
+2015-03-26 10:12:49 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:12:51 查询 select * from publicapi_user where account='admin'
+2015-03-26 10:12:51 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 10:12:51 释放结果集
+2015-03-26 10:12:51 完成整个查询任务,所用时间为0
+2015-03-26 10:13:00 查询 select * from publicapi_user where account='admin2'
+2015-03-26 10:13:00 获取一条记录 select * from publicapi_user where account='admin2'
+2015-03-26 10:13:00 释放结果集
+2015-03-26 10:13:00 完成整个查询任务,所用时间为0
+2015-03-26 10:14:33 释放结果集
+2015-03-26 10:14:33 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 10:19:58 释放结果集
+2015-03-26 10:19:58 完成整个查询任务,所用时间为0
+2015-03-26 10:20:00 释放结果集
+2015-03-26 10:20:00 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:20:10 释放结果集
+2015-03-26 10:20:10 完成整个查询任务,所用时间为0
+2015-03-26 10:44:13 释放结果集
+2015-03-26 10:44:13 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:44:18 查询 select * from publicapi_user where account='admin'
+2015-03-26 10:44:18 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 10:44:18 释放结果集
+2015-03-26 10:44:18 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:44:21 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:44:21 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:44:21 释放结果集
+2015-03-26 10:44:21 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 10:44:51 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:44:51 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:44:51 释放结果集
+2015-03-26 10:44:51 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:45:12 释放结果集
+2015-03-26 10:45:12 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:45:14 查询 select * from publicapi_user where account='admin'
+2015-03-26 10:45:14 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 10:45:14 释放结果集
+2015-03-26 10:45:14 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:45:16 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:16 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:16 释放结果集
+2015-03-26 10:45:16 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:45:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:22 释放结果集
+2015-03-26 10:45:22 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:45:30 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:30 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:30 释放结果集
+2015-03-26 10:45:30 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:45:35 查询 select * from publicapi_user where account='aaaaaaa'
+2015-03-26 10:45:35 获取一条记录 select * from publicapi_user where account='aaaaaaa'
+2015-03-26 10:45:35 释放结果集
+2015-03-26 10:45:35 完成整个查询任务,所用时间为0
+2015-03-26 10:45:36 查询 select cid,account,password,cname from  publicapi_user where account='aaaaaaa'
+2015-03-26 10:45:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account='aaaaaaa'
+2015-03-26 10:45:36 释放结果集
+2015-03-26 10:45:36 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:45:46 查询 select * from publicapi_user where account='admin'
+2015-03-26 10:45:46 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 10:45:46 释放结果集
+2015-03-26 10:45:46 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:45:50 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:50 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:50 释放结果集
+2015-03-26 10:45:50 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:45:54 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:54 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:54 释放结果集
+2015-03-26 10:45:54 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:45:57 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:57 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:45:57 释放结果集
+2015-03-26 10:45:57 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:46:01 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:46:01 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 10:46:01 释放结果集
+2015-03-26 10:46:01 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:46:36 释放结果集
+2015-03-26 10:46:36 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 10:46:43 查询 select * from publicapi_user where account='usera'
+2015-03-26 10:46:43 获取一条记录 select * from publicapi_user where account='usera'
+2015-03-26 10:46:43 释放结果集
+2015-03-26 10:46:43 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:46:47 查询 select * from publicapi_user where account='user01'
+2015-03-26 10:46:47 获取一条记录 select * from publicapi_user where account='user01'
+2015-03-26 10:46:47 释放结果集
+2015-03-26 10:46:47 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:46:56 查询 select * from publicapi_user where cname='user01'
+2015-03-26 10:46:56 获取一条记录 select * from publicapi_user where cname='user01'
+2015-03-26 10:46:56 释放结果集
+2015-03-26 10:46:56 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:47:11 查询 select * from publicapi_user where account='user01'
+2015-03-26 10:47:11 获取一条记录 select * from publicapi_user where account='user01'
+2015-03-26 10:47:11 查询 select * from publicapi_user where cname='sssss'
+2015-03-26 10:47:11 获取一条记录 select * from publicapi_user where cname='sssss'
+2015-03-26 10:47:11 查询 select * from publicapi_user where cid='1427338031'
+2015-03-26 10:47:11 获取一条记录 select * from publicapi_user where cid='1427338031'
+2015-03-26 10:47:11 插入 insert into publicapi_user(cid,account,password,cname,secret,createtime) values('1427338031','user01','d41d8cd98f00b204e9800998ecf8427e','sssss','HWLh8dSegJGD93aYR6xt2qc4FUpPzo5TyCuKjvOB','2015-03-26 10:47:11')
+2015-03-26 10:47:11 查询 insert into publicapi_user(cid,account,password,cname,secret,createtime) values('1427338031','user01','d41d8cd98f00b204e9800998ecf8427e','sssss','HWLh8dSegJGD93aYR6xt2qc4FUpPzo5TyCuKjvOB','2015-03-26 10:47:11')
+2015-03-26 10:47:11 释放结果集
+2015-03-26 10:47:11 完成整个查询任务,所用时间为0.34502005577087
+2015-03-26 10:47:37 释放结果集
+2015-03-26 10:47:37 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:47:40 释放结果集
+2015-03-26 10:47:40 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 10:47:44 释放结果集
+2015-03-26 10:47:44 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:47:50 查询 select * from publicapi_user where account='user01'
+2015-03-26 10:47:50 获取一条记录 select * from publicapi_user where account='user01'
+2015-03-26 10:47:50 释放结果集
+2015-03-26 10:47:50 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 10:47:54 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:47:54 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:47:54 释放结果集
+2015-03-26 10:47:54 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 10:48:35 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:48:35 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:48:35 释放结果集
+2015-03-26 10:48:35 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:49:13 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:13 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:13 释放结果集
+2015-03-26 10:49:13 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 10:49:14 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:14 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:14 释放结果集
+2015-03-26 10:49:14 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 10:49:17 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:17 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:17 释放结果集
+2015-03-26 10:49:17 完成整个查询任务,所用时间为0.0060009956359863
+2015-03-26 10:49:20 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:20 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:20 释放结果集
+2015-03-26 10:49:20 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:49:20 释放结果集
+2015-03-26 10:49:20 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 10:49:24 查询 select * from publicapi_user where account='user01'
+2015-03-26 10:49:24 获取一条记录 select * from publicapi_user where account='user01'
+2015-03-26 10:49:24 释放结果集
+2015-03-26 10:49:24 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:49:28 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:28 释放结果集
+2015-03-26 10:49:28 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 10:49:29 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:29 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:29 释放结果集
+2015-03-26 10:49:29 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 10:49:29 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:29 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:29 释放结果集
+2015-03-26 10:49:29 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 10:49:32 释放结果集
+2015-03-26 10:49:32 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:49:34 查询 select * from publicapi_user where account='user01'
+2015-03-26 10:49:34 获取一条记录 select * from publicapi_user where account='user01'
+2015-03-26 10:49:34 释放结果集
+2015-03-26 10:49:34 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 10:49:39 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:39 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:39 释放结果集
+2015-03-26 10:49:39 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:49:41 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:41 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:41 释放结果集
+2015-03-26 10:49:41 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 10:49:41 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:41 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:41 释放结果集
+2015-03-26 10:49:41 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 10:49:41 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:41 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:41 释放结果集
+2015-03-26 10:49:41 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:49:42 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:42 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:42 释放结果集
+2015-03-26 10:49:42 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 10:49:53 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:53 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:49:53 释放结果集
+2015-03-26 10:49:53 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:50:51 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:50:51 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:50:51 释放结果集
+2015-03-26 10:50:51 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:51:03 查询 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:51:03 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user01'
+2015-03-26 10:51:03 释放结果集
+2015-03-26 10:51:03 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:51:30 释放结果集
+2015-03-26 10:51:30 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:51:34 查询 select * from publicapi_user where account='user02'
+2015-03-26 10:51:34 获取一条记录 select * from publicapi_user where account='user02'
+2015-03-26 10:51:34 释放结果集
+2015-03-26 10:51:34 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:51:37 查询 select * from publicapi_user where cname='user02'
+2015-03-26 10:51:37 获取一条记录 select * from publicapi_user where cname='user02'
+2015-03-26 10:51:37 释放结果集
+2015-03-26 10:51:37 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 10:51:39 查询 select * from publicapi_user where cname='user02'
+2015-03-26 10:51:39 获取一条记录 select * from publicapi_user where cname='user02'
+2015-03-26 10:51:39 释放结果集
+2015-03-26 10:51:39 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:51:54 查询 select * from publicapi_user where cname='user02'
+2015-03-26 10:51:54 获取一条记录 select * from publicapi_user where cname='user02'
+2015-03-26 10:51:54 释放结果集
+2015-03-26 10:51:54 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:54:39 查询 select * from publicapi_user where cname='user02'
+2015-03-26 10:54:39 获取一条记录 select * from publicapi_user where cname='user02'
+2015-03-26 10:54:39 释放结果集
+2015-03-26 10:54:39 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 10:54:46 查询 select * from publicapi_user where cname='user02'
+2015-03-26 10:54:46 获取一条记录 select * from publicapi_user where cname='user02'
+2015-03-26 10:54:46 释放结果集
+2015-03-26 10:54:46 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:56:28 查询 select * from publicapi_user where cname='user02'
+2015-03-26 10:56:28 获取一条记录 select * from publicapi_user where cname='user02'
+2015-03-26 10:56:28 释放结果集
+2015-03-26 10:56:28 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:58:15 释放结果集
+2015-03-26 10:58:15 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:58:35 查询 select * from publicapi_user where cname='aaaaa'
+2015-03-26 10:58:35 获取一条记录 select * from publicapi_user where cname='aaaaa'
+2015-03-26 10:58:35 释放结果集
+2015-03-26 10:58:35 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:58:43 查询 select * from publicapi_user where cname='管理员'
+2015-03-26 10:58:43 获取一条记录 select * from publicapi_user where cname='管理员'
+2015-03-26 10:58:43 释放结果集
+2015-03-26 10:58:43 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:58:48 查询 select * from publicapi_user where account='admin'
+2015-03-26 10:58:48 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 10:58:48 释放结果集
+2015-03-26 10:58:48 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:59:05 释放结果集
+2015-03-26 10:59:05 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:59:06 查询 select * from publicapi_user where account='admin'
+2015-03-26 10:59:06 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 10:59:06 释放结果集
+2015-03-26 10:59:06 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 10:59:08 查询 select * from publicapi_user where cname='管理员'
+2015-03-26 10:59:08 获取一条记录 select * from publicapi_user where cname='管理员'
+2015-03-26 10:59:08 释放结果集
+2015-03-26 10:59:08 完成整个查询任务,所用时间为0.005000114440918
+2015-03-26 10:59:18 查询 select * from publicapi_user where account='user02'
+2015-03-26 10:59:18 获取一条记录 select * from publicapi_user where account='user02'
+2015-03-26 10:59:18 释放结果集
+2015-03-26 10:59:18 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:59:20 查询 select * from publicapi_user where cname='管理员2'
+2015-03-26 10:59:20 获取一条记录 select * from publicapi_user where cname='管理员2'
+2015-03-26 10:59:20 释放结果集
+2015-03-26 10:59:20 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:59:26 查询 select * from publicapi_user where account='user02'
+2015-03-26 10:59:26 获取一条记录 select * from publicapi_user where account='user02'
+2015-03-26 10:59:26 查询 select * from publicapi_user where cname='管理员2'
+2015-03-26 10:59:26 获取一条记录 select * from publicapi_user where cname='管理员2'
+2015-03-26 10:59:26 查询 select * from publicapi_user where cid='1427338766'
+2015-03-26 10:59:26 获取一条记录 select * from publicapi_user where cid='1427338766'
+2015-03-26 10:59:26 插入 insert into publicapi_user(cid,account,password,cname,secret,createtime) values('1427338766','user02','d41d8cd98f00b204e9800998ecf8427e','管理员2','w8RG0UqPClehVTaDYi7b1rstngc23OmKv4pHNXI5','2015-03-26 10:59:26')
+2015-03-26 10:59:26 查询 insert into publicapi_user(cid,account,password,cname,secret,createtime) values('1427338766','user02','d41d8cd98f00b204e9800998ecf8427e','管理员2','w8RG0UqPClehVTaDYi7b1rstngc23OmKv4pHNXI5','2015-03-26 10:59:26')
+2015-03-26 10:59:26 释放结果集
+2015-03-26 10:59:26 完成整个查询任务,所用时间为0.061002969741821
+2015-03-26 10:59:33 查询 select * from publicapi_user where account='user02'
+2015-03-26 10:59:33 获取一条记录 select * from publicapi_user where account='user02'
+2015-03-26 10:59:33 释放结果集
+2015-03-26 10:59:33 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 10:59:55 释放结果集
+2015-03-26 10:59:55 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 10:59:58 查询 select * from publicapi_user where account='user02'
+2015-03-26 10:59:58 获取一条记录 select * from publicapi_user where account='user02'
+2015-03-26 10:59:58 释放结果集
+2015-03-26 10:59:58 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:00:05 查询 select cid,account,password,cname from  publicapi_user where account='user02'
+2015-03-26 11:00:05 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user02'
+2015-03-26 11:00:05 释放结果集
+2015-03-26 11:00:05 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:00:44 查询 select cid,account,password,cname from  publicapi_user where account='user02'
+2015-03-26 11:00:44 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user02'
+2015-03-26 11:00:44 释放结果集
+2015-03-26 11:00:44 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:02:27 查询 select cid,account,password,cname from  publicapi_user where account='user02'
+2015-03-26 11:02:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account='user02'
+2015-03-26 11:02:27 释放结果集
+2015-03-26 11:02:27 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:04:48 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:04:48 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:04:48 释放结果集
+2015-03-26 11:04:48 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:04:50 释放结果集
+2015-03-26 11:04:50 完成整个查询任务,所用时间为0.0049998760223389
+2015-03-26 11:04:52 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:04:52 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:04:52 释放结果集
+2015-03-26 11:04:52 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:04:58 查询 select * from publicapi_user where cname='管理员'
+2015-03-26 11:04:58 获取一条记录 select * from publicapi_user where cname='管理员'
+2015-03-26 11:04:58 释放结果集
+2015-03-26 11:04:58 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:05:06 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:05:06 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:05:06 查询 select * from publicapi_user where cname='管理员'
+2015-03-26 11:05:06 获取一条记录 select * from publicapi_user where cname='管理员'
+2015-03-26 11:05:06 查询 select * from publicapi_user where cid='1427339106'
+2015-03-26 11:05:06 获取一条记录 select * from publicapi_user where cid='1427339106'
+2015-03-26 11:05:06 插入 insert into publicapi_user(cid,account,password,cname,secret,createtime) values('1427339106','admin','e10adc3949ba59abbe56e057f20f883e','管理员','3hJp0W7PYe4jN6s2ancQdo8fxCzTXSkFZVyuwGOr','2015-03-26 11:05:06')
+2015-03-26 11:05:06 查询 insert into publicapi_user(cid,account,password,cname,secret,createtime) values('1427339106','admin','e10adc3949ba59abbe56e057f20f883e','管理员','3hJp0W7PYe4jN6s2ancQdo8fxCzTXSkFZVyuwGOr','2015-03-26 11:05:06')
+2015-03-26 11:05:06 释放结果集
+2015-03-26 11:05:06 完成整个查询任务,所用时间为0.090004920959473
+2015-03-26 11:05:09 释放结果集
+2015-03-26 11:05:09 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:05:14 释放结果集
+2015-03-26 11:05:14 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:05:16 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:05:16 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:05:16 释放结果集
+2015-03-26 11:05:16 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 11:05:19 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:19 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:19 释放结果集
+2015-03-26 11:05:19 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:05:34 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:34 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:34 释放结果集
+2015-03-26 11:05:34 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:05:36 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:36 释放结果集
+2015-03-26 11:05:36 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:05:38 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:38 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:05:38 释放结果集
+2015-03-26 11:05:38 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:15:11 释放结果集
+2015-03-26 11:15:11 完成整个查询任务,所用时间为0.020001888275146
+2015-03-26 11:15:13 释放结果集
+2015-03-26 11:15:13 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:15:17 释放结果集
+2015-03-26 11:15:17 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 11:17:35 释放结果集
+2015-03-26 11:17:35 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:17:37 查询 select * from publicapi_user where account='user02'
+2015-03-26 11:17:37 获取一条记录 select * from publicapi_user where account='user02'
+2015-03-26 11:17:37 释放结果集
+2015-03-26 11:17:37 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 11:17:43 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:17:43 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:17:43 释放结果集
+2015-03-26 11:17:43 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 11:17:46 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:17:46 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:17:46 释放结果集
+2015-03-26 11:17:46 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 11:17:47 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:17:47 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:17:47 释放结果集
+2015-03-26 11:17:47 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:17:50 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:17:50 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:17:50 释放结果集
+2015-03-26 11:17:50 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 11:18:19 释放结果集
+2015-03-26 11:18:19 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:18:22 释放结果集
+2015-03-26 11:18:22 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:18:23 释放结果集
+2015-03-26 11:18:23 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:18:25 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:18:25 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:18:25 释放结果集
+2015-03-26 11:18:25 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:18:29 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:18:29 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:18:29 释放结果集
+2015-03-26 11:18:29 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:18:49 释放结果集
+2015-03-26 11:18:49 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:18:52 释放结果集
+2015-03-26 11:18:52 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:18:53 释放结果集
+2015-03-26 11:18:53 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:18:56 释放结果集
+2015-03-26 11:18:56 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:19:18 释放结果集
+2015-03-26 11:19:18 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:19:20 释放结果集
+2015-03-26 11:19:20 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:19:24 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:19:24 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:19:24 释放结果集
+2015-03-26 11:19:24 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:19:27 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:27 释放结果集
+2015-03-26 11:19:27 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:19:29 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:29 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:29 释放结果集
+2015-03-26 11:19:29 完成整个查询任务,所用时间为0.0060009956359863
+2015-03-26 11:19:30 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 释放结果集
+2015-03-26 11:19:30 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:19:30 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 释放结果集
+2015-03-26 11:19:30 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 11:19:30 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 释放结果集
+2015-03-26 11:19:30 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:19:30 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:30 释放结果集
+2015-03-26 11:19:30 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:19:31 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 释放结果集
+2015-03-26 11:19:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:19:31 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 释放结果集
+2015-03-26 11:19:31 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:19:31 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 释放结果集
+2015-03-26 11:19:31 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:19:31 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 释放结果集
+2015-03-26 11:19:31 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:19:31 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:31 释放结果集
+2015-03-26 11:19:31 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:19:32 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:32 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:19:32 释放结果集
+2015-03-26 11:19:32 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:19:56 释放结果集
+2015-03-26 11:19:56 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:19:57 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:19:57 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:19:57 释放结果集
+2015-03-26 11:19:57 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:20:00 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:20:00 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:20:00 释放结果集
+2015-03-26 11:20:00 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:21:31 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:31 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:31 释放结果集
+2015-03-26 11:21:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:33 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:33 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:33 释放结果集
+2015-03-26 11:21:33 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:21:33 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:33 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:33 释放结果集
+2015-03-26 11:21:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:35 释放结果集
+2015-03-26 11:21:35 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:21:36 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:36 释放结果集
+2015-03-26 11:21:36 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:21:38 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:21:38 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:21:38 释放结果集
+2015-03-26 11:21:38 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:21:41 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:21:41 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:21:41 释放结果集
+2015-03-26 11:21:41 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:45 查询 select * from publicapi_user where account=''
+2015-03-26 11:21:45 获取一条记录 select * from publicapi_user where account=''
+2015-03-26 11:21:45 释放结果集
+2015-03-26 11:21:45 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:46 释放结果集
+2015-03-26 11:21:46 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:48 释放结果集
+2015-03-26 11:21:48 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:21:50 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:50 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:50 释放结果集
+2015-03-26 11:21:50 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:21:51 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:51 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:51 释放结果集
+2015-03-26 11:21:51 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:52 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 释放结果集
+2015-03-26 11:21:52 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:52 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 释放结果集
+2015-03-26 11:21:52 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:21:52 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 释放结果集
+2015-03-26 11:21:52 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:21:52 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:52 释放结果集
+2015-03-26 11:21:52 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:21:53 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 释放结果集
+2015-03-26 11:21:53 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 11:21:53 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 释放结果集
+2015-03-26 11:21:53 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:21:53 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 释放结果集
+2015-03-26 11:21:53 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 11:21:53 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:53 释放结果集
+2015-03-26 11:21:53 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:21:54 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:54 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:21:54 释放结果集
+2015-03-26 11:21:54 完成整个查询任务,所用时间为0.02000093460083
+2015-03-26 11:21:56 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:21:56 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:21:56 释放结果集
+2015-03-26 11:21:56 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:21:59 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:21:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:21:59 释放结果集
+2015-03-26 11:21:59 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:22:03 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:03 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:03 释放结果集
+2015-03-26 11:22:03 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:22:07 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:07 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:07 释放结果集
+2015-03-26 11:22:07 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:22:35 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:35 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:35 释放结果集
+2015-03-26 11:22:35 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:22:36 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:36 释放结果集
+2015-03-26 11:22:36 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 11:22:36 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:36 释放结果集
+2015-03-26 11:22:36 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:22:36 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:36 释放结果集
+2015-03-26 11:22:36 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:22:39 释放结果集
+2015-03-26 11:22:39 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:22:41 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:22:41 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:22:41 释放结果集
+2015-03-26 11:22:41 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:22:43 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:43 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:22:43 释放结果集
+2015-03-26 11:22:43 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:22:54 释放结果集
+2015-03-26 11:22:54 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 11:23:12 释放结果集
+2015-03-26 11:23:12 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:23:13 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:23:13 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:23:13 释放结果集
+2015-03-26 11:23:13 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:23:16 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:16 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:16 释放结果集
+2015-03-26 11:23:16 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:23:25 释放结果集
+2015-03-26 11:23:25 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:23:27 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:23:27 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:23:27 释放结果集
+2015-03-26 11:23:27 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:23:31 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:31 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:31 释放结果集
+2015-03-26 11:23:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:23:40 释放结果集
+2015-03-26 11:23:40 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:23:46 释放结果集
+2015-03-26 11:23:46 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:23:47 释放结果集
+2015-03-26 11:23:47 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:23:49 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:23:49 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:23:49 释放结果集
+2015-03-26 11:23:49 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:23:52 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:52 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:52 释放结果集
+2015-03-26 11:23:52 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:23:54 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:54 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:23:54 释放结果集
+2015-03-26 11:23:54 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:25:15 释放结果集
+2015-03-26 11:25:15 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:25:18 释放结果集
+2015-03-26 11:25:18 完成整个查询任务,所用时间为0.0070011615753174
+2015-03-26 11:25:19 释放结果集
+2015-03-26 11:25:19 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:25:22 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:25:22 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:25:22 释放结果集
+2015-03-26 11:25:22 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:25:25 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:25:25 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:25:25 释放结果集
+2015-03-26 11:25:25 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:25:25 释放结果集
+2015-03-26 11:25:25 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:25:29 释放结果集
+2015-03-26 11:25:29 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:25:31 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:25:31 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:25:31 释放结果集
+2015-03-26 11:25:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:25:34 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:25:34 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:25:34 释放结果集
+2015-03-26 11:25:34 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:25:34 释放结果集
+2015-03-26 11:25:34 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:26:07 释放结果集
+2015-03-26 11:26:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:26:08 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:26:08 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:26:08 释放结果集
+2015-03-26 11:26:08 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:26:11 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:26:11 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:26:11 释放结果集
+2015-03-26 11:26:11 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:26:11 释放结果集
+2015-03-26 11:26:11 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:26:24 释放结果集
+2015-03-26 11:26:24 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:26:26 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:26:26 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:26:26 释放结果集
+2015-03-26 11:26:26 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:26:28 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:26:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:26:28 释放结果集
+2015-03-26 11:26:28 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:26:28 释放结果集
+2015-03-26 11:26:28 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:27:50 释放结果集
+2015-03-26 11:27:50 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:27:54 释放结果集
+2015-03-26 11:27:54 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:27:56 释放结果集
+2015-03-26 11:27:56 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:28:07 释放结果集
+2015-03-26 11:28:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:28:17 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:28:17 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:28:17 释放结果集
+2015-03-26 11:28:17 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:28:19 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:19 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:19 释放结果集
+2015-03-26 11:28:19 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:28:20 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:20 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:20 释放结果集
+2015-03-26 11:28:20 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:28:20 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:20 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:20 释放结果集
+2015-03-26 11:28:20 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:28:21 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 释放结果集
+2015-03-26 11:28:21 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:28:21 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 释放结果集
+2015-03-26 11:28:21 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:28:21 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 释放结果集
+2015-03-26 11:28:21 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:28:21 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:21 释放结果集
+2015-03-26 11:28:21 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:28:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:22 释放结果集
+2015-03-26 11:28:22 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:28:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:22 释放结果集
+2015-03-26 11:28:22 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:28:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:22 释放结果集
+2015-03-26 11:28:22 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:28:26 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:26 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:26 释放结果集
+2015-03-26 11:28:26 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:28:27 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:27 释放结果集
+2015-03-26 11:28:27 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:28:27 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:27 释放结果集
+2015-03-26 11:28:27 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:28:28 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:28 释放结果集
+2015-03-26 11:28:28 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:28:28 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:28 释放结果集
+2015-03-26 11:28:28 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:28:28 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:28:28 释放结果集
+2015-03-26 11:28:28 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:28:30 释放结果集
+2015-03-26 11:28:30 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:29:19 释放结果集
+2015-03-26 11:29:19 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:29:22 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:29:22 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:29:22 释放结果集
+2015-03-26 11:29:22 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:29:24 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:24 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:24 释放结果集
+2015-03-26 11:29:24 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:29:25 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:25 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:25 释放结果集
+2015-03-26 11:29:25 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:29:26 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:26 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:26 释放结果集
+2015-03-26 11:29:26 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:29:26 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:26 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:26 释放结果集
+2015-03-26 11:29:26 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:29:27 释放结果集
+2015-03-26 11:29:27 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:29:50 释放结果集
+2015-03-26 11:29:50 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:29:52 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:29:52 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:29:52 释放结果集
+2015-03-26 11:29:52 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:29:54 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:54 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:54 释放结果集
+2015-03-26 11:29:54 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:29:55 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 释放结果集
+2015-03-26 11:29:55 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:29:55 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 释放结果集
+2015-03-26 11:29:55 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 11:29:55 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 释放结果集
+2015-03-26 11:29:55 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:29:55 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:55 释放结果集
+2015-03-26 11:29:55 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:29:56 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:56 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:29:56 释放结果集
+2015-03-26 11:29:56 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:29:58 释放结果集
+2015-03-26 11:29:58 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:30:03 释放结果集
+2015-03-26 11:30:03 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 11:30:05 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:30:05 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:30:05 释放结果集
+2015-03-26 11:30:05 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:30:07 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:07 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:07 释放结果集
+2015-03-26 11:30:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:30:11 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:11 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:11 释放结果集
+2015-03-26 11:30:11 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:30:12 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 释放结果集
+2015-03-26 11:30:12 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:30:12 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 释放结果集
+2015-03-26 11:30:12 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:30:12 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 释放结果集
+2015-03-26 11:30:12 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 11:30:12 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:12 释放结果集
+2015-03-26 11:30:12 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:30:13 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:13 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:13 释放结果集
+2015-03-26 11:30:13 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:30:15 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:15 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:15 释放结果集
+2015-03-26 11:30:15 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 11:30:16 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 释放结果集
+2015-03-26 11:30:16 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:30:16 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 释放结果集
+2015-03-26 11:30:16 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:30:16 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 释放结果集
+2015-03-26 11:30:16 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:30:16 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:16 释放结果集
+2015-03-26 11:30:16 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:30:18 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:18 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:18 释放结果集
+2015-03-26 11:30:18 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:30:18 释放结果集
+2015-03-26 11:30:18 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:30:20 释放结果集
+2015-03-26 11:30:20 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:30:21 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:21 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:21 释放结果集
+2015-03-26 11:30:21 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:30:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:22 释放结果集
+2015-03-26 11:30:22 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:30:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:22 释放结果集
+2015-03-26 11:30:22 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:30:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:22 释放结果集
+2015-03-26 11:30:22 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:30:37 释放结果集
+2015-03-26 11:30:37 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:30:38 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:30:38 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:30:38 释放结果集
+2015-03-26 11:30:38 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:30:38 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:30:38 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:30:38 释放结果集
+2015-03-26 11:30:38 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:30:39 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:30:39 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:30:39 释放结果集
+2015-03-26 11:30:39 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:30:40 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:30:40 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:30:40 释放结果集
+2015-03-26 11:30:40 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:30:44 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:44 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:44 释放结果集
+2015-03-26 11:30:44 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:30:48 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:48 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:48 释放结果集
+2015-03-26 11:30:48 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:30:50 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:50 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:30:50 释放结果集
+2015-03-26 11:30:50 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:31:56 释放结果集
+2015-03-26 11:31:56 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:31:58 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:31:58 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:31:58 释放结果集
+2015-03-26 11:31:58 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:32:00 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:00 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:00 释放结果集
+2015-03-26 11:32:00 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:32:01 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:01 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:01 释放结果集
+2015-03-26 11:32:01 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:32:02 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:02 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:02 释放结果集
+2015-03-26 11:32:02 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:32:02 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:02 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:02 释放结果集
+2015-03-26 11:32:02 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:32:02 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:02 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:02 释放结果集
+2015-03-26 11:32:02 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:32:03 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 释放结果集
+2015-03-26 11:32:03 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 11:32:03 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 释放结果集
+2015-03-26 11:32:03 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:32:03 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 释放结果集
+2015-03-26 11:32:03 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:32:03 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:03 释放结果集
+2015-03-26 11:32:03 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:32:17 释放结果集
+2015-03-26 11:32:17 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:32:18 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:32:18 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:32:18 释放结果集
+2015-03-26 11:32:18 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:32:20 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:32:20 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:32:20 释放结果集
+2015-03-26 11:32:20 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:32:22 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:22 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:22 释放结果集
+2015-03-26 11:32:22 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:32:23 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:23 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:23 释放结果集
+2015-03-26 11:32:23 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:32:23 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:23 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:23 释放结果集
+2015-03-26 11:32:23 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:32:29 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:29 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:29 释放结果集
+2015-03-26 11:32:29 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 11:32:30 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:30 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:30 释放结果集
+2015-03-26 11:32:30 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:32:43 释放结果集
+2015-03-26 11:32:43 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:32:44 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:32:44 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:32:44 释放结果集
+2015-03-26 11:32:44 完成整个查询任务,所用时间为0.0049998760223389
+2015-03-26 11:32:46 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:32:46 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:32:46 释放结果集
+2015-03-26 11:32:46 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:32:49 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:49 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:32:49 释放结果集
+2015-03-26 11:32:49 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:32:57 释放结果集
+2015-03-26 11:32:57 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:32:59 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:32:59 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:32:59 释放结果集
+2015-03-26 11:32:59 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 11:33:01 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:01 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:01 释放结果集
+2015-03-26 11:33:01 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:33:05 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:05 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:05 释放结果集
+2015-03-26 11:33:05 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 11:33:11 释放结果集
+2015-03-26 11:33:11 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:33:13 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:33:13 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:33:13 释放结果集
+2015-03-26 11:33:13 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:33:15 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:15 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:15 释放结果集
+2015-03-26 11:33:15 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:33:16 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:16 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:16 释放结果集
+2015-03-26 11:33:16 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:33:31 释放结果集
+2015-03-26 11:33:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:33:33 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:33:33 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:33:33 释放结果集
+2015-03-26 11:33:33 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:33:36 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:36 释放结果集
+2015-03-26 11:33:36 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:33:54 释放结果集
+2015-03-26 11:33:54 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:33:55 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:33:55 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:33:55 释放结果集
+2015-03-26 11:33:55 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:33:57 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:33:57 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:33:57 释放结果集
+2015-03-26 11:33:57 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:33:59 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:33:59 释放结果集
+2015-03-26 11:33:59 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:34:10 释放结果集
+2015-03-26 11:34:10 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:34:12 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:34:12 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:34:12 释放结果集
+2015-03-26 11:34:12 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:34:14 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:34:14 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:34:14 释放结果集
+2015-03-26 11:34:14 完成整个查询任务,所用时间为0.0040009021759033
+2015-03-26 11:34:33 释放结果集
+2015-03-26 11:34:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:34:34 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:34:34 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:34:34 释放结果集
+2015-03-26 11:34:34 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:34:36 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:34:36 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:34:36 释放结果集
+2015-03-26 11:34:36 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:34:40 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:34:40 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:34:40 释放结果集
+2015-03-26 11:34:40 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:34:59 释放结果集
+2015-03-26 11:34:59 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:35:00 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:35:00 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:35:00 释放结果集
+2015-03-26 11:35:00 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:35:02 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:35:02 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:35:02 释放结果集
+2015-03-26 11:35:02 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:35:11 释放结果集
+2015-03-26 11:35:11 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:35:12 释放结果集
+2015-03-26 11:35:12 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:35:13 释放结果集
+2015-03-26 11:35:13 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:35:13 释放结果集
+2015-03-26 11:35:13 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:35:52 释放结果集
+2015-03-26 11:35:52 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:35:54 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:35:54 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:35:54 释放结果集
+2015-03-26 11:35:54 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:35:58 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:35:58 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:35:58 释放结果集
+2015-03-26 11:35:58 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:36:00 释放结果集
+2015-03-26 11:36:00 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:01 释放结果集
+2015-03-26 11:36:01 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 11:36:04 释放结果集
+2015-03-26 11:36:04 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:05 释放结果集
+2015-03-26 11:36:05 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:36:23 释放结果集
+2015-03-26 11:36:23 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:36:25 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:25 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:25 释放结果集
+2015-03-26 11:36:25 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:36:27 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 释放结果集
+2015-03-26 11:36:27 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:36:27 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 释放结果集
+2015-03-26 11:36:27 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:27 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 释放结果集
+2015-03-26 11:36:27 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 11:36:27 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:27 释放结果集
+2015-03-26 11:36:27 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:36:28 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:28 释放结果集
+2015-03-26 11:36:28 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:36:38 释放结果集
+2015-03-26 11:36:38 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:36:39 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:39 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:39 释放结果集
+2015-03-26 11:36:39 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:42 释放结果集
+2015-03-26 11:36:42 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:43 释放结果集
+2015-03-26 11:36:43 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:36:44 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:44 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:44 释放结果集
+2015-03-26 11:36:44 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:36:46 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:46 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:46 释放结果集
+2015-03-26 11:36:46 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:36:47 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 释放结果集
+2015-03-26 11:36:47 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:36:47 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 释放结果集
+2015-03-26 11:36:47 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:47 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 释放结果集
+2015-03-26 11:36:47 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:36:47 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:47 释放结果集
+2015-03-26 11:36:47 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:36:48 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:48 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:48 释放结果集
+2015-03-26 11:36:48 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:49 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:49 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:36:49 释放结果集
+2015-03-26 11:36:49 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:36:53 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:36:53 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:36:53 释放结果集
+2015-03-26 11:36:53 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 11:36:53 释放结果集
+2015-03-26 11:36:53 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:36:57 释放结果集
+2015-03-26 11:36:57 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:37:57 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:57 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:57 释放结果集
+2015-03-26 11:37:57 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:37:58 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:58 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:58 释放结果集
+2015-03-26 11:37:58 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:37:59 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 释放结果集
+2015-03-26 11:37:59 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:37:59 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 释放结果集
+2015-03-26 11:37:59 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:37:59 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 释放结果集
+2015-03-26 11:37:59 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:37:59 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 释放结果集
+2015-03-26 11:37:59 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:37:59 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:37:59 释放结果集
+2015-03-26 11:37:59 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:38:00 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:38:00 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:38:00 释放结果集
+2015-03-26 11:38:00 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:38:00 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:38:00 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:38:00 释放结果集
+2015-03-26 11:38:00 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:38:04 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:04 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:04 释放结果集
+2015-03-26 11:38:04 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:38:04 释放结果集
+2015-03-26 11:38:04 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:38:07 释放结果集
+2015-03-26 11:38:07 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:38:13 释放结果集
+2015-03-26 11:38:13 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:38:18 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:18 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:18 释放结果集
+2015-03-26 11:38:18 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 11:38:23 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:23 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:23 释放结果集
+2015-03-26 11:38:23 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:38:26 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:26 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:38:26 释放结果集
+2015-03-26 11:38:26 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:39:23 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:39:23 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:39:23 释放结果集
+2015-03-26 11:39:23 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:39:27 释放结果集
+2015-03-26 11:39:27 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:39:28 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:28 释放结果集
+2015-03-26 11:39:28 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:39:28 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:28 释放结果集
+2015-03-26 11:39:28 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:39:28 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:28 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:28 释放结果集
+2015-03-26 11:39:28 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 11:39:29 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:29 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:29 释放结果集
+2015-03-26 11:39:29 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:39:29 查询 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:29 获取一条记录 select cid,account,password,cname from  publicapi_user where account=''
+2015-03-26 11:39:29 释放结果集
+2015-03-26 11:39:29 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 11:39:34 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:39:34 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:39:34 释放结果集
+2015-03-26 11:39:34 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 11:39:34 释放结果集
+2015-03-26 11:39:34 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:39:41 释放结果集
+2015-03-26 11:39:41 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:39:53 释放结果集
+2015-03-26 11:39:53 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:39:59 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:39:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 11:39:59 释放结果集
+2015-03-26 11:39:59 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 11:39:59 释放结果集
+2015-03-26 11:39:59 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:45:33 释放结果集
+2015-03-26 11:45:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:48:16 查询 select * from publicapi_user where account='admin'
+2015-03-26 11:48:16 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 11:48:16 释放结果集
+2015-03-26 11:48:16 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 11:59:05 释放结果集
+2015-03-26 11:59:05 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 11:59:46 释放结果集
+2015-03-26 11:59:46 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 12:00:10 释放结果集
+2015-03-26 12:00:10 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 12:01:06 释放结果集
+2015-03-26 12:01:06 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:22:56 释放结果集
+2015-03-26 13:22:56 完成整个查询任务,所用时间为0.062003135681152
+2015-03-26 13:23:03 释放结果集
+2015-03-26 13:23:03 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:23:05 释放结果集
+2015-03-26 13:23:05 完成整个查询任务,所用时间为0.021002054214478
+2015-03-26 13:29:35 释放结果集
+2015-03-26 13:29:35 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:29:35 释放结果集
+2015-03-26 13:29:35 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 13:29:36 释放结果集
+2015-03-26 13:29:36 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:29:39 查询 select * from publicapi_user where account='admin'
+2015-03-26 13:29:39 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 13:29:39 释放结果集
+2015-03-26 13:29:39 完成整个查询任务,所用时间为0.012001037597656
+2015-03-26 13:29:43 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:29:43 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:29:43 释放结果集
+2015-03-26 13:29:43 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 13:29:43 释放结果集
+2015-03-26 13:29:43 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 13:36:04 释放结果集
+2015-03-26 13:36:04 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:36:06 释放结果集
+2015-03-26 13:36:06 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:36:08 释放结果集
+2015-03-26 13:36:08 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 13:36:52 释放结果集
+2015-03-26 13:36:52 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:36:55 释放结果集
+2015-03-26 13:36:55 完成整个查询任务,所用时间为0.041002035140991
+2015-03-26 13:37:35 释放结果集
+2015-03-26 13:37:35 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:37:40 释放结果集
+2015-03-26 13:37:40 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 13:37:41 释放结果集
+2015-03-26 13:37:41 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 13:37:43 释放结果集
+2015-03-26 13:37:43 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:37:45 释放结果集
+2015-03-26 13:37:45 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:38:09 释放结果集
+2015-03-26 13:38:09 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:38:19 释放结果集
+2015-03-26 13:38:19 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 13:38:25 释放结果集
+2015-03-26 13:38:25 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:38:43 释放结果集
+2015-03-26 13:38:43 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:38:52 释放结果集
+2015-03-26 13:38:52 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 13:39:09 释放结果集
+2015-03-26 13:39:09 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:39:11 释放结果集
+2015-03-26 13:39:11 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:39:12 释放结果集
+2015-03-26 13:39:12 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:39:22 释放结果集
+2015-03-26 13:39:22 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:39:23 释放结果集
+2015-03-26 13:39:23 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 13:39:25 释放结果集
+2015-03-26 13:39:25 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 13:46:37 释放结果集
+2015-03-26 13:46:37 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:46:46 释放结果集
+2015-03-26 13:46:46 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:46:47 释放结果集
+2015-03-26 13:46:47 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 13:46:48 释放结果集
+2015-03-26 13:46:48 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:46:50 查询 select * from publicapi_user where account='admin'
+2015-03-26 13:46:50 获取一条记录 select * from publicapi_user where account='admin'
+2015-03-26 13:46:50 释放结果集
+2015-03-26 13:46:50 完成整个查询任务,所用时间为0.017000913619995
+2015-03-26 13:46:52 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:46:52 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:46:52 释放结果集
+2015-03-26 13:46:52 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 13:46:52 释放结果集
+2015-03-26 13:46:52 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:46:55 释放结果集
+2015-03-26 13:46:55 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 13:46:55 释放结果集
+2015-03-26 13:46:55 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 13:46:58 释放结果集
+2015-03-26 13:46:58 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 13:47:00 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:47:00 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:47:00 释放结果集
+2015-03-26 13:47:00 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 13:47:00 释放结果集
+2015-03-26 13:47:00 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 13:47:01 释放结果集
+2015-03-26 13:47:01 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:47:01 释放结果集
+2015-03-26 13:47:01 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 13:47:02 释放结果集
+2015-03-26 13:47:02 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 13:47:03 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:47:03 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:47:03 释放结果集
+2015-03-26 13:47:03 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 13:47:03 释放结果集
+2015-03-26 13:47:03 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 13:47:06 释放结果集
+2015-03-26 13:47:06 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 13:47:06 释放结果集
+2015-03-26 13:47:06 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:47:06 释放结果集
+2015-03-26 13:47:06 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 13:47:07 释放结果集
+2015-03-26 13:47:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:47:07 释放结果集
+2015-03-26 13:47:07 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 13:47:07 释放结果集
+2015-03-26 13:47:07 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 13:47:07 释放结果集
+2015-03-26 13:47:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:47:07 释放结果集
+2015-03-26 13:47:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 13:47:08 释放结果集
+2015-03-26 13:47:08 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 13:47:09 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:47:09 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 13:47:09 释放结果集
+2015-03-26 13:47:09 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 13:47:09 释放结果集
+2015-03-26 13:47:09 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:10:26 释放结果集
+2015-03-26 14:10:26 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:10:30 释放结果集
+2015-03-26 14:10:30 完成整个查询任务,所用时间为0.0260009765625
+2015-03-26 14:10:31 释放结果集
+2015-03-26 14:10:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:10:31 释放结果集
+2015-03-26 14:10:31 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:10:31 释放结果集
+2015-03-26 14:10:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:10:32 释放结果集
+2015-03-26 14:10:32 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:10:32 释放结果集
+2015-03-26 14:10:32 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:10:32 释放结果集
+2015-03-26 14:10:32 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:10:33 释放结果集
+2015-03-26 14:10:33 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:10:34 释放结果集
+2015-03-26 14:10:34 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:10:36 释放结果集
+2015-03-26 14:10:36 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:12:15 释放结果集
+2015-03-26 14:12:15 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:12:16 释放结果集
+2015-03-26 14:12:16 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:12:17 释放结果集
+2015-03-26 14:12:17 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:12:18 释放结果集
+2015-03-26 14:12:18 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:12:18 释放结果集
+2015-03-26 14:12:18 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:12:19 释放结果集
+2015-03-26 14:12:19 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:12:21 释放结果集
+2015-03-26 14:12:21 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:12:22 释放结果集
+2015-03-26 14:12:22 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:12:23 释放结果集
+2015-03-26 14:12:23 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:12:25 释放结果集
+2015-03-26 14:12:25 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:12:27 释放结果集
+2015-03-26 14:12:27 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:12:33 释放结果集
+2015-03-26 14:12:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:12:34 释放结果集
+2015-03-26 14:12:34 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:12:34 释放结果集
+2015-03-26 14:12:34 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:12:42 释放结果集
+2015-03-26 14:12:42 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:12:53 释放结果集
+2015-03-26 14:12:53 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:12:53 释放结果集
+2015-03-26 14:12:53 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:12:55 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:12:55 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:12:55 释放结果集
+2015-03-26 14:12:55 完成整个查询任务,所用时间为0.020001173019409
+2015-03-26 14:13:00 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:13:00 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:13:00 释放结果集
+2015-03-26 14:13:00 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:13:00 释放结果集
+2015-03-26 14:13:00 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 14:13:02 释放结果集
+2015-03-26 14:13:02 完成整个查询任务,所用时间为0.005000114440918
+2015-03-26 14:13:04 释放结果集
+2015-03-26 14:13:04 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:13:04 释放结果集
+2015-03-26 14:13:04 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:13:04 释放结果集
+2015-03-26 14:13:04 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:13:10 释放结果集
+2015-03-26 14:13:10 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:13:12 释放结果集
+2015-03-26 14:13:12 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:13:12 释放结果集
+2015-03-26 14:13:12 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:13:14 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:13:14 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:13:14 释放结果集
+2015-03-26 14:13:14 完成整个查询任务,所用时间为0.0020008087158203
+2015-03-26 14:13:14 释放结果集
+2015-03-26 14:13:14 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:15:57 释放结果集
+2015-03-26 14:15:57 完成整个查询任务,所用时间为0.01400089263916
+2015-03-26 14:15:57 释放结果集
+2015-03-26 14:15:57 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:15:58 释放结果集
+2015-03-26 14:15:58 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 14:15:59 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:15:59 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 14:15:59 释放结果集
+2015-03-26 14:15:59 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:15:59 释放结果集
+2015-03-26 14:15:59 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:16:03 释放结果集
+2015-03-26 14:16:03 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:16:07 释放结果集
+2015-03-26 14:16:07 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:16:08 释放结果集
+2015-03-26 14:16:08 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:16:11 释放结果集
+2015-03-26 14:16:11 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:16:12 释放结果集
+2015-03-26 14:16:12 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:16:23 释放结果集
+2015-03-26 14:16:23 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:17:23 释放结果集
+2015-03-26 14:17:23 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:17:25 释放结果集
+2015-03-26 14:17:25 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:17:27 释放结果集
+2015-03-26 14:17:27 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:17:29 释放结果集
+2015-03-26 14:17:29 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:17:32 释放结果集
+2015-03-26 14:17:32 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 14:17:33 释放结果集
+2015-03-26 14:17:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:17:34 释放结果集
+2015-03-26 14:17:34 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:20:08 释放结果集
+2015-03-26 14:20:08 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:20:19 释放结果集
+2015-03-26 14:20:19 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:20:22 释放结果集
+2015-03-26 14:20:22 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:20:23 释放结果集
+2015-03-26 14:20:23 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 14:22:16 释放结果集
+2015-03-26 14:22:16 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:24:22 释放结果集
+2015-03-26 14:24:22 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:25:19 释放结果集
+2015-03-26 14:25:19 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:25:41 释放结果集
+2015-03-26 14:25:41 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:31:02 释放结果集
+2015-03-26 14:31:02 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 14:34:45 释放结果集
+2015-03-26 14:34:45 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:35:12 释放结果集
+2015-03-26 14:35:12 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:35:14 释放结果集
+2015-03-26 14:35:14 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 14:35:16 释放结果集
+2015-03-26 14:35:16 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 14:35:35 释放结果集
+2015-03-26 14:35:35 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 14:36:00 释放结果集
+2015-03-26 14:36:00 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:36:26 释放结果集
+2015-03-26 14:36:26 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 14:36:56 释放结果集
+2015-03-26 14:36:56 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:37:10 释放结果集
+2015-03-26 14:37:10 完成整个查询任务,所用时间为0.0040011405944824
+2015-03-26 14:40:33 释放结果集
+2015-03-26 14:40:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 14:47:27 释放结果集
+2015-03-26 14:47:27 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 14:48:42 释放结果集
+2015-03-26 14:48:42 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 14:48:46 释放结果集
+2015-03-26 14:48:46 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:50:16 释放结果集
+2015-03-26 14:50:16 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 14:50:21 释放结果集
+2015-03-26 14:50:21 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:03:14 释放结果集
+2015-03-26 15:03:14 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:03:15 释放结果集
+2015-03-26 15:03:15 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:01 释放结果集
+2015-03-26 15:13:01 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 15:13:02 释放结果集
+2015-03-26 15:13:02 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:03 释放结果集
+2015-03-26 15:13:03 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:03 释放结果集
+2015-03-26 15:13:03 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:13:03 释放结果集
+2015-03-26 15:13:03 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:08 释放结果集
+2015-03-26 15:13:08 完成整个查询任务,所用时间为0
+2015-03-26 15:13:11 释放结果集
+2015-03-26 15:13:11 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:11 释放结果集
+2015-03-26 15:13:11 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:12 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 15:13:12 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 15:13:12 释放结果集
+2015-03-26 15:13:12 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:12 释放结果集
+2015-03-26 15:13:12 完成整个查询任务,所用时间为0
+2015-03-26 15:13:15 释放结果集
+2015-03-26 15:13:15 完成整个查询任务,所用时间为0
+2015-03-26 15:13:16 释放结果集
+2015-03-26 15:13:16 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 15:13:20 释放结果集
+2015-03-26 15:13:20 完成整个查询任务,所用时间为0
+2015-03-26 15:13:20 释放结果集
+2015-03-26 15:13:20 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:13:20 释放结果集
+2015-03-26 15:13:20 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:13:22 释放结果集
+2015-03-26 15:13:22 完成整个查询任务,所用时间为0
+2015-03-26 15:13:22 释放结果集
+2015-03-26 15:13:22 完成整个查询任务,所用时间为0.0010008811950684
+2015-03-26 15:22:49 释放结果集
+2015-03-26 15:22:49 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 15:22:50 查询 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 15:22:50 获取一条记录 select cid,account,password,cname from  publicapi_user where account='admin'
+2015-03-26 15:22:50 释放结果集
+2015-03-26 15:22:50 完成整个查询任务,所用时间为0
+2015-03-26 15:22:50 释放结果集
+2015-03-26 15:22:50 完成整个查询任务,所用时间为0
+2015-03-26 15:22:51 释放结果集
+2015-03-26 15:22:51 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 15:22:52 释放结果集
+2015-03-26 15:22:52 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:23:27 释放结果集
+2015-03-26 15:23:27 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:23:34 释放结果集
+2015-03-26 15:23:34 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 15:23:34 释放结果集
+2015-03-26 15:23:34 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:23:36 释放结果集
+2015-03-26 15:23:36 完成整个查询任务,所用时间为0.017600059509277
+2015-03-26 15:23:58 释放结果集
+2015-03-26 15:23:58 完成整个查询任务,所用时间为0
+2015-03-26 15:23:58 释放结果集
+2015-03-26 15:23:58 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 15:24:02 释放结果集
+2015-03-26 15:24:02 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:24:03 释放结果集
+2015-03-26 15:24:03 完成整个查询任务,所用时间为0.0040011405944824
+2015-03-26 15:24:03 释放结果集
+2015-03-26 15:24:03 完成整个查询任务,所用时间为0
+2015-03-26 15:24:04 释放结果集
+2015-03-26 15:24:04 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 15:24:30 释放结果集
+2015-03-26 15:24:30 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 15:24:33 释放结果集
+2015-03-26 15:24:33 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:24:33 释放结果集
+2015-03-26 15:24:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:24:33 释放结果集
+2015-03-26 15:24:33 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:24:33 释放结果集
+2015-03-26 15:24:33 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:24:33 释放结果集
+2015-03-26 15:24:33 完成整个查询任务,所用时间为0
+2015-03-26 15:24:34 释放结果集
+2015-03-26 15:24:34 完成整个查询任务,所用时间为0
+2015-03-26 15:24:35 释放结果集
+2015-03-26 15:24:35 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 15:26:56 释放结果集
+2015-03-26 15:26:56 完成整个查询任务,所用时间为0
+2015-03-26 15:27:24 释放结果集
+2015-03-26 15:27:24 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:27:32 释放结果集
+2015-03-26 15:27:32 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:27:39 释放结果集
+2015-03-26 15:27:39 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:27:39 释放结果集
+2015-03-26 15:27:39 完成整个查询任务,所用时间为0
+2015-03-26 15:27:40 释放结果集
+2015-03-26 15:27:40 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:27:40 释放结果集
+2015-03-26 15:27:40 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 15:27:40 释放结果集
+2015-03-26 15:27:40 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:27:40 释放结果集
+2015-03-26 15:27:40 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:27:40 释放结果集
+2015-03-26 15:27:40 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:27:55 释放结果集
+2015-03-26 15:27:55 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 15:27:56 释放结果集
+2015-03-26 15:27:56 完成整个查询任务,所用时间为0
+2015-03-26 15:31:22 释放结果集
+2015-03-26 15:31:22 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 15:32:51 释放结果集
+2015-03-26 15:32:51 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 15:33:33 释放结果集
+2015-03-26 15:33:33 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:33:49 释放结果集
+2015-03-26 15:33:49 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:34:12 释放结果集
+2015-03-26 15:34:12 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 15:34:15 释放结果集
+2015-03-26 15:34:15 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:43:40 释放结果集
+2015-03-26 15:43:40 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 15:44:14 释放结果集
+2015-03-26 15:44:14 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:44:44 释放结果集
+2015-03-26 15:44:44 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:44:48 释放结果集
+2015-03-26 15:44:48 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:47:11 释放结果集
+2015-03-26 15:47:11 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:48:21 释放结果集
+2015-03-26 15:48:21 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:48:49 释放结果集
+2015-03-26 15:48:49 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:50:58 释放结果集
+2015-03-26 15:50:58 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 15:50:59 释放结果集
+2015-03-26 15:50:59 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 15:51:10 释放结果集
+2015-03-26 15:51:10 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:52:03 释放结果集
+2015-03-26 15:52:03 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 15:53:38 释放结果集
+2015-03-26 15:53:38 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 15:54:47 释放结果集
+2015-03-26 15:54:47 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 15:54:49 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','','','','GPbqu7IdkaOnfeEHRBQZ')
+2015-03-26 15:54:49 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','','','','GPbqu7IdkaOnfeEHRBQZ')
+2015-03-26 15:54:49 Query Error: insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','','','','GPbqu7IdkaOnfeEHRBQZ')
+Incorrect integer value: '' for column 'apptype' at row 1
+2015-03-26 15:54:49 释放结果集
+2015-03-26 15:54:49 完成整个查询任务,所用时间为0.051002979278564
+2015-03-26 15:54:50 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','','','','ZPqYV15ymXlSH9pi7KGI')
+2015-03-26 15:54:50 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','','','','ZPqYV15ymXlSH9pi7KGI')
+2015-03-26 15:54:50 Query Error: insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','','','','ZPqYV15ymXlSH9pi7KGI')
+Incorrect integer value: '' for column 'apptype' at row 1
+2015-03-26 15:54:50 释放结果集
+2015-03-26 15:54:50 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 15:55:01 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','0','3','','E9vA6Lfp3kQGWz24OHuh')
+2015-03-26 15:55:01 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey) values('1427339106','','','1','0','3','','E9vA6Lfp3kQGWz24OHuh')
+2015-03-26 15:55:02 释放结果集
+2015-03-26 15:55:02 完成整个查询任务,所用时间为0.18701004981995
+2015-03-26 15:55:02 释放结果集
+2015-03-26 15:55:02 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 15:55:08 释放结果集
+2015-03-26 15:55:08 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 16:02:41 释放结果集
+2015-03-26 16:02:41 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:03:19 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','aaa','','1','','2','','zbxpLX2So8CMKNdsmR1l','1427356999')
+2015-03-26 16:03:19 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','aaa','','1','','2','','zbxpLX2So8CMKNdsmR1l','1427356999')
+2015-03-26 16:03:19 Query Error: insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','aaa','','1','','2','','zbxpLX2So8CMKNdsmR1l','1427356999')
+Incorrect integer value: '' for column 'apptype' at row 1
+2015-03-26 16:03:19 释放结果集
+2015-03-26 16:03:19 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 16:05:29 释放结果集
+2015-03-26 16:05:29 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 16:05:38 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','','2','','EpHPx9qFGnQwYsb2R6jD','1427357138')
+2015-03-26 16:05:38 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','','2','','EpHPx9qFGnQwYsb2R6jD','1427357138')
+2015-03-26 16:05:38 Query Error: insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','','2','','EpHPx9qFGnQwYsb2R6jD','1427357138')
+Incorrect integer value: '' for column 'apptype' at row 1
+2015-03-26 16:05:38 释放结果集
+2015-03-26 16:05:38 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 16:06:18 释放结果集
+2015-03-26 16:06:18 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:06:29 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','aaa','','1','2','2','','6FLHbSMjzEpG549mehQf','1427357189')
+2015-03-26 16:06:29 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','aaa','','1','2','2','','6FLHbSMjzEpG549mehQf','1427357189')
+2015-03-26 16:06:29 释放结果集
+2015-03-26 16:06:29 完成整个查询任务,所用时间为0.069004058837891
+2015-03-26 16:06:29 释放结果集
+2015-03-26 16:06:29 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:08:20 释放结果集
+2015-03-26 16:08:20 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 16:08:30 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','1','1','','kFJxBTPtcENaA2GM0ieD','2015-03-26 16:08:30')
+2015-03-26 16:08:30 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','1','1','','kFJxBTPtcENaA2GM0ieD','2015-03-26 16:08:30')
+2015-03-26 16:08:30 释放结果集
+2015-03-26 16:08:30 完成整个查询任务,所用时间为0.044003009796143
+2015-03-26 16:08:30 释放结果集
+2015-03-26 16:08:30 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:08:32 释放结果集
+2015-03-26 16:08:32 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 16:08:47 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','222','','1','1','3','','tPG2jAy1Ock5HKrW6lfi','2015-03-26 16:08:47')
+2015-03-26 16:08:47 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','222','','1','1','3','','tPG2jAy1Ock5HKrW6lfi','2015-03-26 16:08:47')
+2015-03-26 16:08:47 释放结果集
+2015-03-26 16:08:47 完成整个查询任务,所用时间为0.033002138137817
+2015-03-26 16:08:47 释放结果集
+2015-03-26 16:08:47 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 16:08:50 释放结果集
+2015-03-26 16:08:50 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 16:09:02 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','','2','','h0dLFNOsGjB4rPWauEZV','2015-03-26 16:09:02')
+2015-03-26 16:09:02 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','','2','','h0dLFNOsGjB4rPWauEZV','2015-03-26 16:09:02')
+2015-03-26 16:09:02 Query Error: insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','111','','1','','2','','h0dLFNOsGjB4rPWauEZV','2015-03-26 16:09:02')
+Incorrect integer value: '' for column 'apptype' at row 1
+2015-03-26 16:09:02 释放结果集
+2015-03-26 16:09:02 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 16:09:48 释放结果集
+2015-03-26 16:09:48 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 16:10:00 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','2222','','1','','3','','q67YRmzo2CpFGZi1UVHb','2015-03-26 16:10:00')
+2015-03-26 16:10:00 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','2222','','1','','3','','q67YRmzo2CpFGZi1UVHb','2015-03-26 16:10:00')
+2015-03-26 16:10:00 Query Error: insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','2222','','1','','3','','q67YRmzo2CpFGZi1UVHb','2015-03-26 16:10:00')
+Incorrect integer value: '' for column 'apptype' at row 1
+2015-03-26 16:10:00 释放结果集
+2015-03-26 16:10:00 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 16:10:47 释放结果集
+2015-03-26 16:10:47 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:12:08 释放结果集
+2015-03-26 16:12:08 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:12:31 释放结果集
+2015-03-26 16:12:31 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:13:50 释放结果集
+2015-03-26 16:13:50 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 16:14:01 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','我我我我','','1','4','3','','ORfXI48gkeMFWnYZGr5D','2015-03-26 16:14:01')
+2015-03-26 16:14:01 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','我我我我','','1','4','3','','ORfXI48gkeMFWnYZGr5D','2015-03-26 16:14:01')
+2015-03-26 16:14:01 释放结果集
+2015-03-26 16:14:01 完成整个查询任务,所用时间为0.028002023696899
+2015-03-26 16:14:02 释放结果集
+2015-03-26 16:14:02 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 16:14:32 释放结果集
+2015-03-26 16:14:32 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:34:03 查询 select * from
+2015-03-26 16:34:03 Query Error: select * from
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-03-26 16:34:03 释放结果集
+2015-03-26 16:34:03 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 16:38:54 释放结果集
+2015-03-26 16:38:54 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:38:56 查询 select * from publicapi where cid=1427339106
+2015-03-26 16:38:56 获取全部记录 select * from publicapi where cid=1427339106
+2015-03-26 16:38:56 释放结果集
+2015-03-26 16:38:56 完成整个查询任务,所用时间为0.025001049041748
+2015-03-26 16:38:58 查询 select * from publicapi where cid=1427339106
+2015-03-26 16:38:58 获取全部记录 select * from publicapi where cid=1427339106
+2015-03-26 16:38:58 释放结果集
+2015-03-26 16:38:58 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 16:43:22 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:43:22 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:43:22 释放结果集
+2015-03-26 16:43:22 完成整个查询任务,所用时间为0.010000944137573
+2015-03-26 16:43:28 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:43:28 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:43:28 释放结果集
+2015-03-26 16:43:28 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:43:34 释放结果集
+2015-03-26 16:43:34 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 16:44:00 插入 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','最新应用','111111','1','2','2','www.baidu.com','roKd26zXTDQpkmZjh7vM','2015-03-26 16:44:00')
+2015-03-26 16:44:00 查询 insert into publicapi(cid,appname,appdesc,servertype,apptype,appplat,callurl,appkey,createtime) values('1427339106','最新应用','111111','1','2','2','www.baidu.com','roKd26zXTDQpkmZjh7vM','2015-03-26 16:44:00')
+2015-03-26 16:44:00 释放结果集
+2015-03-26 16:44:00 完成整个查询任务,所用时间为0.037002801895142
+2015-03-26 16:44:00 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:44:00 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:44:00 释放结果集
+2015-03-26 16:44:00 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 16:44:12 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:44:12 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:44:12 释放结果集
+2015-03-26 16:44:12 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 16:52:22 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:52:22 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:52:22 释放结果集
+2015-03-26 16:52:22 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 16:52:43 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:52:43 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:52:43 释放结果集
+2015-03-26 16:52:43 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 16:52:46 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:52:46 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:52:46 释放结果集
+2015-03-26 16:52:46 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 16:53:13 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:53:13 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:53:13 释放结果集
+2015-03-26 16:53:13 完成整个查询任务,所用时间为0.0060009956359863
+2015-03-26 16:53:40 查询 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:53:40 获取全部记录 select appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 16:53:40 释放结果集
+2015-03-26 16:53:40 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 17:08:26 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:08:26 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:08:26 释放结果集
+2015-03-26 17:08:26 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:17:01 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:17:01 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:17:01 释放结果集
+2015-03-26 17:17:01 完成整个查询任务,所用时间为0.017001152038574
+2015-03-26 17:17:06 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:17:06 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:17:06 释放结果集
+2015-03-26 17:17:06 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 17:17:43 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:17:43 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:17:43 释放结果集
+2015-03-26 17:17:43 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:18:11 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:11 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:11 释放结果集
+2015-03-26 17:18:11 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 17:18:25 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:25 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:25 释放结果集
+2015-03-26 17:18:25 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:18:45 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:45 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:45 释放结果集
+2015-03-26 17:18:45 完成整个查询任务,所用时间为0.017001152038574
+2015-03-26 17:18:46 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:46 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:18:46 释放结果集
+2015-03-26 17:18:46 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:19:39 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:19:39 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:19:39 释放结果集
+2015-03-26 17:19:39 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 17:19:40 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:19:40 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:19:40 释放结果集
+2015-03-26 17:19:40 完成整个查询任务,所用时间为0.0090010166168213
+2015-03-26 17:20:02 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:20:02 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:20:02 释放结果集
+2015-03-26 17:20:02 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 17:20:05 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:20:05 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:20:05 释放结果集
+2015-03-26 17:20:05 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 17:25:40 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:25:40 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:25:40 释放结果集
+2015-03-26 17:25:40 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 17:40:14 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:40:14 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:40:14 释放结果集
+2015-03-26 17:40:14 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:40:16 释放结果集
+2015-03-26 17:40:16 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 17:42:47 释放结果集
+2015-03-26 17:42:47 完成整个查询任务,所用时间为0.0010011196136475
+2015-03-26 17:42:58 释放结果集
+2015-03-26 17:42:58 完成整个查询任务,所用时间为0.016000986099243
+2015-03-26 17:43:46 释放结果集
+2015-03-26 17:43:46 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 17:44:14 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:44:14 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:44:14 释放结果集
+2015-03-26 17:44:14 完成整个查询任务,所用时间为0.037002086639404
+2015-03-26 17:45:43 释放结果集
+2015-03-26 17:45:43 完成整个查询任务,所用时间为0.0010001659393311
+2015-03-26 17:45:53 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:45:53 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:45:53 释放结果集
+2015-03-26 17:45:53 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 17:45:54 释放结果集
+2015-03-26 17:45:54 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 17:46:02 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:46:02 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:46:02 释放结果集
+2015-03-26 17:46:02 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:58:23 释放结果集
+2015-03-26 17:58:23 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 17:58:24 释放结果集
+2015-03-26 17:58:24 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:59:01 释放结果集
+2015-03-26 17:59:01 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 17:59:02 释放结果集
+2015-03-26 17:59:02 完成整个查询任务,所用时间为0.0049998760223389
+2015-03-26 17:59:04 释放结果集
+2015-03-26 17:59:04 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:59:05 释放结果集
+2015-03-26 17:59:05 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 17:59:07 释放结果集
+2015-03-26 17:59:07 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:59:11 释放结果集
+2015-03-26 17:59:11 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 17:59:12 释放结果集
+2015-03-26 17:59:12 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 17:59:12 释放结果集
+2015-03-26 17:59:12 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 17:59:13 释放结果集
+2015-03-26 17:59:13 完成整个查询任务,所用时间为0.0029997825622559
+2015-03-26 17:59:13 释放结果集
+2015-03-26 17:59:13 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 17:59:14 释放结果集
+2015-03-26 17:59:14 完成整个查询任务,所用时间为0.0039999485015869
+2015-03-26 17:59:14 释放结果集
+2015-03-26 17:59:14 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 17:59:15 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:59:15 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:59:15 释放结果集
+2015-03-26 17:59:15 完成整个查询任务,所用时间为0.003000020980835
+2015-03-26 17:59:16 释放结果集
+2015-03-26 17:59:16 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:59:16 释放结果集
+2015-03-26 17:59:16 完成整个查询任务,所用时间为0.0050010681152344
+2015-03-26 17:59:17 释放结果集
+2015-03-26 17:59:17 完成整个查询任务,所用时间为0.0030009746551514
+2015-03-26 17:59:18 查询 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:59:18 获取全部记录 select appkey,appname,status,callCount from publicapi where cid=1427339106
+2015-03-26 17:59:18 释放结果集
+2015-03-26 17:59:18 完成整个查询任务,所用时间为0.005000114440918
+2015-03-26 17:59:19 释放结果集
+2015-03-26 17:59:19 完成整个查询任务,所用时间为0.00099992752075195
+2015-03-26 17:59:20 释放结果集
+2015-03-26 17:59:20 完成整个查询任务,所用时间为0.002000093460083
+2015-03-26 17:59:21 释放结果集
+2015-03-26 17:59:21 完成整个查询任务,所用时间为0.0020010471343994
+2015-03-26 18:00:00 释放结果集
+2015-03-26 18:00:00 完成整个查询任务,所用时间为0.0019998550415039
+2015-03-26 18:00:01 释放结果集
+2015-03-26 18:00:01 完成整个查询任务,所用时间为0.00099992752075195

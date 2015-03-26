@@ -237,8 +237,8 @@ $(document).ready(function(){
 		data:{key:'username'},
 		success : function(data){
 			console.log(data);//return;
-            if( data.status == 1 ) return true;
-            if( data.status == 0 ) return false;
+            if( data.status == 0 ) return true;
+            if( data.status == 1 ) return false;
 			return false;
 		},
 		buttons: $("#btn_submit"),
@@ -254,13 +254,13 @@ $(document).ready(function(){
 	url : "ajax/checkunique.php",
 	success : function(data){
 		console.log(data);//return;
-        if( data.status == 1 ) return true;
-        if( data.status == 0 ) return false;
+        if( data.status == 0 ) return true;
+        if( data.status == 1 ) return false;
 		return false;
 	},
 	buttons: $("#btn_submit"),
 	error: function(jqXHR, textStatus, errorThrown){alert("服务器没有返回数据，可能服务器忙，请重试"+errorThrown);},
-	onError : "该企业名称已存在，不能注册",
+	onError : "该企业名称已存在，不能使用",
 	onWait : "正在对企业名称进行合法性校验，请稍候..."
 }).defaultPassed();;
 	

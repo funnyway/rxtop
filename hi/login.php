@@ -68,37 +68,7 @@ require("hi_init.php");
 #validatecode{width:75px;}
 #pre{font-size:12px;line-height:34px;cursor:pointer;}
 .btnGray input.disable{color:#a0a0a0;cursor:default;}
-.btns2 {
-	display:block;
-	border:none;
-	color:#fff;
-	font-size:14px;
-	font-weight:bold;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-color: #00B4FF;
-	height: 34px;
-	width: 100px;
-	margin: 0;
-	text-align: center;
-}
-.btns3 {
-	display:block;
-	border:none;
-	color:#fff;
-	font-size:14px;
-	font-weight:bold;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-color: #999999;
-	height: 34px;
-	width: 100px;
-	margin-top: auto;
-	margin-right: 0;
-	margin-bottom: 0;
-	margin-left: 0;
-	text-align: center;
-}
+
 
 </style>
 </head>
@@ -122,7 +92,7 @@ require("hi_init.php");
     <td align="left" valign="top">
 	<div class="loginright">
 		     <div class="logintop">账号登录</div>
-		     <form id="loginform">
+		     <form id="loginform" method="post" >
 			 <table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
                <tr>
                  <td height="40"></td>
@@ -135,29 +105,30 @@ require("hi_init.php");
     <td><label>
 
       <input class="logininput" type="text" id="us" name="us" />
-      <div id="usTip" style="width: 150px">111</div>
+      <div id="usTip" style="width: 150px"></div>
     </label></td>
   </tr>
   <tr>
     <td>密　码</td>
     <td><label>
-      <input class="logininput" type="password" name="password" />
+      <input class="logininput" type="password" id="password" name="password" />
     </label></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><label>
-      <input type="checkbox" name="checkbox" value="checkbox" />
+      <input type="checkbox" id="auto_login" name="checkbox" value="auto_login_yes" />
+      <input type="hidden" id="http_referer" name="http_referer" value="<?php echo $_SERVER["HTTP_REFERER"] ?>">
     </label>
-      <label for="coks">下次自动登录</label>
+      <label for="auto_login">下次自动登录</label>
       <span class="reg-a">　　　　　　　<a href="#">忘记密码</a> </span></td>
     </tr>
   <tr>
   </form>
     <td colspan="2"><table width="100%" height="60" border="0" cellpadding="0" cellspacing="0">
         <tr>
-          <td align="center"><a href="#"><button class="btns2" style="line-height:34px;">登录
-          </button></a></td>
-          <td align="center" valign="middle"><a href="zc.php"><button class="btns3" style="line-height:34px;">注册
+          <td align="center"><button  type="button" class="btns2" id="btn_login" style="line-height:34px;">登录
+          </button></td>
+          <td align="center" valign="middle"><a href="zc.php"><button type="button" class="btns3" style="line-height:34px;">注册
           </button></a></td>
         </tr>
       </table>
@@ -195,8 +166,8 @@ $(function() {
 			data:{key:'username'},
 			success : function(data){
 				console.log(data);
-	            if( data.status == 0 ) return true;
-	            if( data.status == 1 ) return false;
+	            if( data.status == 1 ) return true;
+	            if( data.status == 0 ) return false;
 				return false;
 			},
 			buttons: $("#btn_submit"),
@@ -204,6 +175,30 @@ $(function() {
 			onError : "用户名不存在",
 			onWait : ""
 		}).defaultPassed();
+	$('#btn_login').click(function() {
+		$.ajax({
+		 	type : 'POST',
+			dataType : "json",
+			url : "server/dologin.php",
+			data:$('#loginform').serialize(),
+			success : function(data){
+	            if(data.status==1){
+	            	
+		            var url = $('#http_referer').val();
+		            
+		            if(url) {
+		            	window.location.href=url;
+			    	}else{
+			    		window.location.href = "index.php";
+			         }
+		        }else {
+		        	alert(data.msg)
+			    }
+			}
+		})
+	})
+
+	
 })
 
 </script>

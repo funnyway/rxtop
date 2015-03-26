@@ -1,7 +1,7 @@
 <?php
 require("../hi_init.php");
 $account = PAPI_GetSafeParam('us');
-$password = PAPI_GetSafeParam('password');
+$password = PAPI_GetSafeParam('password1');
 $cname = PAPI_GetSafeParam('cn');
 if($db->get_one("select * from publicapi_user where account='$account'")) {
 	$rs['status']  = 0;

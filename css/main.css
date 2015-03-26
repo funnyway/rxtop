@@ -526,3 +526,81 @@ a.BO:hover {
 	margin-left: 20px;
 	margin-top: 10px;
 }
+.btnwww{
+	display:block;
+	border:none;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	background-color: #00B4FF;
+	margin: 0;
+	text-align: center;
+}
+.btn {
+text-transform: uppercase;
+display: inline-block;
+text-decoration: none;
+padding: 5px 15px;
+border: none;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+line-height: 1.5em;
+vertical-align: baseline;
+}
+.btn,.btn-highlight {
+background: #00b4ff;
+color: #ccf0ff;
+}
+.btns2 {
+	display:block;
+	border:none;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	background-color: #00B4FF;
+	height: 34px;
+	width: 100px;
+	margin: 0;
+	text-align: center;
+}
+.btns3 {
+	display:block;
+	border:none;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	background-color: #999999;
+	height: 34px;
+	width: 100px;
+	margin-top: auto;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	text-align: center;
+}
+
+.STYLE1 {
+	font-size: 16px;
+	font-weight: 600;
+}
+.STYLE2 {
+	color: #666666;
+	line-height: 24px;
+}
+a.sty2:link {
+	font-size: 14px;
+	color: #0099FF;
+	text-decoration: none;
+}
+a.sty2:visited {
+	font-size: 14px;
+	color: #0099FF;
+	text-decoration: none;
+}

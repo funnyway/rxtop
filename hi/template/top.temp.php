@@ -11,8 +11,25 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td rowspan="2"><img src="../images/TopRx_r2_c3.jpg" width="282" height="72" /></td>
-    <td width="60"><a href="login.php"><img src="../images/TopRx_r1_c19.jpg" width="54" height="28" border="0" /></a></td>
-    <td width="120"><a href="zc.php"><img src="../images/TopRx_r1_c21.jpg" width="54" height="28" border="0" /></a></td>
+    <td width="60">
+    <?php 
+    	if (isset($_SESSION['toprx_api_userid'])) {
+    		echo '<a href="/hi" id="btn1">'.$_SESSION['toprx_api_username'].'</a>';
+    	}else {
+    		echo '<a href="login.php" id="btn1"><img src="../images/TopRx_r1_c19.jpg" width="54" height="28" border="0" /></a>';
+    	}
+    ?>
+    </td>
+    <td width="120">
+        <?php 
+    	if (isset($_SESSION['toprx_api_userid'])) {
+    		echo '<a href="logout.php"><button type="button" class="btns3" style="line-height:24px;width:48px;height:24px;font-size:12px;">退出</button></a>';
+    	}else {
+    		echo ' <a href="zc.php" id="btn2"><img src="../images/TopRx_r1_c21.jpg" width="54" height="28" border="0" /></a>';
+    	}
+    ?>
+    
+   </td>
   </tr>
   <tr>
     <td colspan="2">&nbsp;</td>
@@ -22,7 +39,7 @@
   <tr>
     <td align="right"><table width="500" border="0" align="right" cellpadding="0" cellspacing="0" class="dh1">
   <tr>
-    <td align="left" valign="middle">　 <a href="/" class="dh1">首页</a>　　<a href="index.php" class="dh1">开发者中心</a>　　<a href="myapp.php" class="dh1">我的应用</a>　　<a href="index04.html" class="dh1">API文档</a></td>
+    <td align="left" valign="middle">　 <a href="/" class="dh1">首页</a>　　<a href="index.php" class="dh1">开发者中心</a>　　<a href="myapp.php" class="dh1">我的应用</a>　　<a href="/wd/6.html" class="dh1">API文档</a></td>
   </tr>
 </table></td>
   </tr>

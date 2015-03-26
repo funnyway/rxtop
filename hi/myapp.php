@@ -1,5 +1,10 @@
 <?php 
 require 'hi_init.php';
+if(!isset($_SESSION['toprx_api_userid'])) {
+	header('Location:/hi/login.php');
+}
+$cid = $_SESSION['toprx_api_userid'];
+$rs = $db->get_all("select appkey,appname,status,callCount from publicapi where cid=$cid");
 require('template/top.temp.php'); //导入头部
 ?>
 <table width="1180" border="0" cellspacing="0" cellpadding="0">
@@ -19,17 +24,37 @@ require('template/top.temp.php'); //导入头部
     <th width="200" class="th1">API月使用量</th>
     <th width="400" class="th1">操作</th>
   </tr>
+  <?php 
+  	foreach($rs as $k=>$v) {
+  ?>
   <tr>
-    <td align="center">1111</td>
-    <td align="center">开发版</td>
-    <td align="center">0</td>
-    <td align="center"><a href="index10.html"><img src="../images/menu_r3_c1.jpg" width="80" height="30" border="0" class="mimg" /></a><a href="index12.html"><img src="../images/menu_r3_c3.jpg" width="80" height="30" border="0" class="mimg" /></a></td>
+    <td align="center"><?php echo $v['appname'];?></td>
+    <td align="center"><?php echo $v['status']==1?'开发版':'正式版';?></td>
+    <td align="center"><?php echo $v['callCount'];?></td>
+    <td align="center"><a  class="btn-manage" appkey="<?php echo $v['appkey'];?>"><img src="../images/menu_r3_c1.jpg" width="80" height="30" border="0" class="mimg" /></a><a  class="btn-upgrade"><img src="../images/menu_r3_c3.jpg" width="80" height="30" border="0" class="mimg" /></a></td>
   </tr>
+  <?php 
+  	}
+  ?>
 </table>
 
 	  </div>	</td>
   </tr>
 </table>
+<form action="appmanage.php" id="gomangeform" method="post">
+	<input type="hidden" id="appkey" name="appkey" value="" />
+</form>
+<script src="js/formValidator/jquery-1.4.4.min.js" type="text/javascript"></script>
+	
+<script type="text/javascript">
+	$(function() {
+		$('.btn-manage').click(function() {
+			var id = $(this).attr('appkey');
+			$('#appkey').val(id);
+			$('#gomangeform').submit();
+		})
+	})
+</script>
 <?php 
 require('template/foot.temp.php'); //导入尾部
 ?>
